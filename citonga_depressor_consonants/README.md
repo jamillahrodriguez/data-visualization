@@ -4,6 +4,8 @@ In this joint project with Winfred Mkochi and Lee Bickmore, I looked at the chan
 
 All data was recorded from the first author native speaker and pitch tracks were time normalized.
 
+A publication with our findings is available [here](https://www.njas.fi/njas/article/view/822).
+
 The files here include:
 
 * Annotated files with pitch tracks and vowel measurements:
