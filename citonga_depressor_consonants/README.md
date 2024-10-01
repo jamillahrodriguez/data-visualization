@@ -4,8 +4,14 @@ In this joint project with Winfred Mkochi and Lee Bickmore, I looked at the chan
 
 All data was recorded from the first author native speaker and pitch tracks were time normalized.
 
+The files here include:
+
 * Annotated files with pitch tracks and vowel measurements:
   * `mean-pitch-tracks.csv`
   * `pitch-tracks.csv`
   * `vowel-measurements.csv`
+ 
+* An R script for exploration and analysis
+
+* Several graphs printed from the R script above
 
