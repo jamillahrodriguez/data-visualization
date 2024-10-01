@@ -8,7 +8,7 @@ A publication with our findings is available [here](https://www.njas.fi/njas/art
 
 The files here include:
 
-* Annotated files with pitch tracks and vowel measurements:
+* Annotated files with pitch tracks and vowel measurements
   * `mean-pitch-tracks.csv`
   * `pitch-tracks.csv`
   * `vowel-measurements.csv`
