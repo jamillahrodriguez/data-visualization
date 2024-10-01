@@ -1,0 +1,934 @@
+Tonga,Gloss,Type,Type1,Type2,Vowel,Type3,C1,C2,Status,maxf0,minf0,meanf0,diff.f0,intensity,duration,minimal,C1.class,C2.class,blocker,C2.class.blocker
+ku-kolw-a,get drunk,A-H-1,A,H,u,infinitive,k,lw,ku-,160.2570522,150.4608237,152.6298635,NA,63.84915006,45.431077,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+ku-kolw-a,get drunk,A-H-1,A,H,o,infinitive,k,lw,stem,181.5635312,165.294831,170.7063974,18.0765339,74.61104898,64.4913034,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+ku-kolw-a,get drunk,A-H-1,A,H,a,infinitive,k,lw,FV,201.5687623,190.8924406,198.7464055,28.0400081,80.38833616,109.4150285,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+ku-land-a,go astray,A-H-1,A,H,u,infinitive,l,nd,ku-,156.0709185,153.8207647,154.9887631,NA,68.06223021,36.18506757,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-land-a,go astray,A-H-1,A,H,a,infinitive,l,nd,stem,155.0122439,150.9088236,152.216875,-2.7718881,76.10047835,85.77308166,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-land-a,go astray,A-H-1,A,H,a,infinitive,l,nd,FV,199.0514152,184.0183666,194.630998,42.414123,79.39442691,102.5660157,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-mbwit-a,miss,A-H-1,A,H,u,infinitive,mbw,t,ku-,164.6786932,158.640654,162.7177731,NA,69.3879852,52.58612756,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+ku-mbwit-a,miss,A-H-1,A,H,i,infinitive,mbw,t,stem,176.6108345,171.5489237,174.0735589,11.3557858,69.94585939,40.93935974,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+ku-mbwit-a,miss,A-H-1,A,H,a,infinitive,mbw,t,FV,199.8255955,195.8483562,197.8211677,23.7476088,80.89970565,106.2389589,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+ku-tap-a,take extra cards,A-H-1,A,H,u,infinitive,t,p,ku-,148.5339227,142.5770166,144.5362525,NA,62.31734265,49.34239476,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-tap-a,take extra cards,A-H-1,A,H,a,infinitive,t,p,stem,164.9349177,157.0795886,159.8807988,15.3445463,77.06452194,82.26924321,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-tap-a,take extra cards,A-H-1,A,H,a,infinitive,t,p,FV,198.5316176,192.9200339,195.9725865,36.0917877,79.7905135,104.4032613,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-w?ek-a,elude danger,A-H-1,A,H,u,infinitive,w?,k,ku-,152.34671,147.7541504,150.8706723,NA,67.63858122,62.37975707,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-w?ek-a,elude danger,A-H-1,A,H,e,infinitive,w?,k,stem,161.2516288,155.866631,159.1492596,8.2785873,73.5678994,87.32066964,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-w?ek-a,elude danger,A-H-1,A,H,a,infinitive,w?,k,FV,200.9783451,193.0878878,197.5377578,38.3884982,80.34366319,92.88751239,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-kolw-a,get drunk,A-H-2,A,H,a,distant past,k,lw,prefix,162.3994707,152.3988933,158.2330866,NA,75.58787085,57.96550255,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+w?a-ku-kolw-a,get drunk,A-H-2,A,H,u,distant past,k,lw,ku-,195.1432623,176.3546527,190.9032739,32.6701873,68.3041202,41.10286589,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+w?a-ku-kolw-a,get drunk,A-H-2,A,H,o,distant past,k,lw,stem,172.6218994,169.2881641,170.753812,-20.1494619,74.72710582,61.20261979,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+w?a-ku-kolw-a,get drunk,A-H-2,A,H,a,distant past,k,lw,FV,183.8134537,175.287563,181.3121365,10.5583245,78.34632703,94.9591925,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+w?a-ku-land-a,go astray,A-H-2,A,H,a,distant past,l,nd,prefix,151.8363602,141.2759047,147.7845658,NA,75.65597752,75.00472214,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-land-a,go astray,A-H-2,A,H,u,distant past,l,nd,ku-,185.105497,181.9608724,183.3734157,35.5888499,69.38479122,37.92918805,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-land-a,go astray,A-H-2,A,H,a,distant past,l,nd,stem,171.3000012,159.1524376,163.7528951,-19.6205206,78.79425398,73.39269677,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-land-a,go astray,A-H-2,A,H,a,distant past,l,nd,FV,173.3000534,168.2801036,171.1039644,7.3510693,77.88141883,103.2052296,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-mbwit-a,miss,A-H-2,A,H,a,distant past,mbw,t,prefix,159.4736563,151.5609781,156.8462865,NA,74.7702903,58.87659767,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbwit-a,miss,A-H-2,A,H,u,distant past,mbw,t,ku-,191.9690989,186.1803669,189.5571122,32.7108257,70.96378168,45.28140128,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbwit-a,miss,A-H-2,A,H,i,distant past,mbw,t,stem,172.7341015,170.2061302,171.4915648,-18.0655474,69.91120808,41.91077682,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbwit-a,miss,A-H-2,A,H,a,distant past,mbw,t,FV,186.8193268,177.1031925,183.2014465,11.7098817,76.81499318,102.2513968,no minimal pair,prenasalized voiced stop with glide,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,prefix,138.6922974,129.3273152,135.2496787,NA,75.4882158,69.18227964,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nam-a,lie,A-H-2,A,H,u,distant past,n,m,ku-,166.9422655,159.4822365,164.9061732,29.6564945,68.01285975,45.26137713,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,stem,140.6014429,131.0673878,134.1111254,-30.7950478,71.90718971,76.73108453,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,FV,150.1858368,145.0898314,147.8714511,13.7603257,74.60391198,94.48710669,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,prefix,159.4869003,146.7503953,155.764777,NA,75.13842506,66.83768663,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,u,distant past,t,p,ku-,188.7899553,179.4436448,186.1738539,30.4090769,66.5047118,38.97799585,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,stem,184.0484588,161.4219617,174.5892622,-11.5845917,79.04204069,78.73997138,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,FV,179.5013087,175.5985474,177.2434535,2.6541913,77.97881881,102.3040071,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+wa-w?ek-a,elude danger,A-H-2,A,H,a,distant past,w?,k,prefix,164.7876319,155.4840976,160.9908863,NA,76.56879421,63.29379473,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-w?ek-a,elude danger,A-H-2,A,H,u,distant past,w?,k,ku-,186.4380237,181.9929885,185.7708559,24.7799696,67.45011109,41.12058283,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-w?ek-a,elude danger,A-H-2,A,H,e,distant past,w?,k,stem,184.5641756,166.6129449,179.2667483,-6.5041076,73.3060559,94.67858017,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-w?ek-a,elude danger,A-H-2,A,H,a,distant past,w?,k,FV,182.7581984,174.5548884,179.6929365,0.4261882,78.32764539,103.5904446,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-mbat-a,stick on,A-L-1,A,L,u,infinitive,mb,t,ku-,162.2618767,156.2407881,159.936211,NA,66.42695303,49.70729991,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-mbat-a,stick on,A-L-1,A,L,a,infinitive,mb,t,stem,178.1476245,169.2170143,173.0038913,13.0676803,78.61089206,56.69023277,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-mbat-a,stick on,A-L-1,A,L,a,infinitive,mb,t,FV,197.6515901,184.0956775,192.1552371,19.1513458,77.91955589,113.5851958,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-muk-a,answer,A-L-1,A,L,u,infinitive,m,k,ku-,155.8458712,150.3465577,153.465375,NA,66.50762117,46.38282231,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-muk-a,answer,A-L-1,A,L,u,infinitive,m,k,stem,170.3790383,163.6633516,167.6614606,14.1960856,68.75821285,48.95426828,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-muk-a,answer,A-L-1,A,L,a,infinitive,m,k,FV,191.4924626,185.0462566,187.3824689,19.7210083,79.02842313,102.8505513,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-nang-a,destroy,A-L-1,A,L,u,infinitive,n,ng,ku-,153.5555078,150.3509918,151.0994557,NA,66.52672376,45.96702984,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-nang-a,destroy,A-L-1,A,L,a,infinitive,n,ng,stem,164.7102191,152.9019262,157.7916983,6.6922426,71.72551401,72.63184582,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-nang-a,destroy,A-L-1,A,L,a,infinitive,n,ng,FV,196.261693,179.9687398,192.6102365,34.8185382,78.65803737,101.4328397,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-ndond-a,go in line,A-L-1,A,L,u,infinitive,nd,nd,ku-,169.2343673,159.4920833,162.2422051,NA,63.70768796,53.33713234,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+ku-ndond-a,go in line,A-L-1,A,L,o,infinitive,nd,nd,stem,182.114043,169.9806357,175.688677,13.4464719,71.09254753,75.79892868,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+ku-ndond-a,go in line,A-L-1,A,L,a,infinitive,nd,nd,FV,194.74191,186.2141262,191.982697,16.29402,78.85355782,114.0766349,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+ku-ngat-a,hook,A-L-1,A,L,u,infinitive,ng,t,ku-,158.5143008,152.1801493,156.0663253,NA,64.85576791,62.53254252,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-ngat-a,hook,A-L-1,A,L,a,infinitive,ng,t,stem,187.3007858,161.6871188,171.0862165,15.0198912,78.10835472,67.948514,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-ngat-a,hook,A-L-1,A,L,a,infinitive,ng,t,FV,200.1421579,190.1905074,194.944673,23.8584565,78.69019335,111.66526,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+ku-nol-a,sharpen by grinding,A-L-1,A,L,u,infinitive,n,l,ku-,152.9482538,147.6491668,149.8002161,NA,66.36070843,44.88817938,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nol-a,sharpen by grinding,A-L-1,A,L,o,infinitive,n,l,stem,169.9323761,156.5504007,161.8573753,12.0571592,70.3362755,73.94571836,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nol-a,sharpen by grinding,A-L-1,A,L,a,infinitive,n,l,FV,190.5400133,185.8723807,188.2051783,26.347803,79.71645316,97.01961388,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-pum-a,beat,A-L-1,A,L,u,infinitive,p,m,ku-,143.9910028,139.9726091,142.6840877,NA,62.92574416,26.08966365,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-pum-a,beat,A-L-1,A,L,u,infinitive,p,m,stem,167.631219,164.8915924,166.1985449,23.5144572,66.8150932,49.09140479,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-pum-a,beat,A-L-1,A,L,a,infinitive,p,m,FV,193.1462861,188.432012,191.699372,25.5008271,76.78230626,99.24949826,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-tap-a,take from,A-L-1,A,L,u,infinitive,t,p,ku-,147.3074392,144.2564113,144.5523448,NA,60.23727154,35.39572754,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-tap-a,take from,A-L-1,A,L,a,infinitive,t,p,stem,181.9490493,174.4964742,178.5384119,33.9860671,77.0866096,76.46226445,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-tap-a,take from,A-L-1,A,L,a,infinitive,t,p,FV,193.4454991,186.6266818,191.3213405,12.7829286,78.28640068,95.58623494,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-temb-a,curse,A-L-1,A,L,u,infinitive,t,mb,ku-,146.6845679,141.0568632,144.2817603,NA,62.89965122,34.1034713,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-temb-a,curse,A-L-1,A,L,e,infinitive,t,mb,stem,175.2649624,170.4591359,172.7474257,28.4656654,71.02539525,64.47765045,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-temb-a,curse,A-L-1,A,L,a,infinitive,t,mb,FV,191.417562,184.2294246,190.1640637,17.416638,78.59255568,93.81866613,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-mbat-a,stick on,A-L-2,A,L,a,distant past,mb,t,prefix,180.6475629,168.1611985,175.1116895,NA,76.73889988,65.13416489,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbat-a,stick on,A-L-2,A,L,u,distant past,mb,t,ku-,198.5785028,191.4014179,196.2127828,21.1010933,70.90254879,46.51321981,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbat-a,stick on,A-L-2,A,L,a,distant past,mb,t,stem,181.3676647,178.0988645,179.3357691,-16.8770137,78.65436658,58.41866573,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-mbat-a,stick on,A-L-2,A,L,a,distant past,mb,t,FV,195.3483786,188.3972836,191.8273951,12.491626,78.67783421,104.260097,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-muk-a,answer,A-L-2,A,L,a,distant past,m,k,prefix,176.4784429,162.3413484,171.004353,NA,75.57023335,66.36920632,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-muk-a,answer,A-L-2,A,L,u,distant past,m,k,ku-,199.9184164,192.6402989,198.0816278,27.0772748,69.86527544,36.74910823,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-muk-a,answer,A-L-2,A,L,u,distant past,m,k,stem,190.007393,179.2956635,186.5772871,-11.5043407,68.91286077,30.27700349,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-muk-a,answer,A-L-2,A,L,a,distant past,m,k,FV,196.8587669,189.6250267,192.467634,5.8903469,77.86060189,97.13614289,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-nang-a,destroy,A-L-2,A,L,a,distant past,n,ng,prefix,185.9804657,169.7275627,179.893595,NA,77.69133914,72.26767116,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-nang-a,destroy,A-L-2,A,L,u,distant past,n,ng,ku-,200.0649724,194.2884117,198.092094,18.198499,72.51090023,39.92179837,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-nang-a,destroy,A-L-2,A,L,a,distant past,n,ng,stem,197.9884287,193.879766,195.8052981,-2.2867959,76.51558385,76.96077713,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-nang-a,destroy,A-L-2,A,L,a,distant past,n,ng,FV,199.7792475,187.8661422,196.4094668,0.6041687,79.91595371,90.51525708,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-ndond-a,go in line,A-L-2,A,L,a,distant past,nd,nd,prefix,178.0510875,162.162319,171.4055391,NA,77.68403457,75.76977083,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-ndond-a,go in line,A-L-2,A,L,u,distant past,nd,nd,ku-,199.8923463,196.5430586,198.9372726,27.5317335,72.34355504,49.95118046,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-ndond-a,go in line,A-L-2,A,L,o,distant past,nd,nd,stem,190.086758,184.787169,188.5417762,-10.3954964,70.96901831,73.34593516,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-ndond-a,go in line,A-L-2,A,L,a,distant past,nd,nd,FV,192.4477508,184.1390386,189.7823255,1.2405493,79.34562963,105.08714,no minimal pair,prenasalized voiced stops,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-ngat-a,hook,A-L-2,A,L,a,distant past,ng,t,prefix,177.7392857,171.3171871,175.475139,NA,78.23331662,67.46115414,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-ngat-a,hook,A-L-2,A,L,u,distant past,ng,t,ku-,207.31293,197.7699838,204.7714397,29.2963007,71.89773703,47.06115884,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-ngat-a,hook,A-L-2,A,L,a,distant past,ng,t,stem,187.1789538,181.3117655,183.4236607,-21.347779,78.38250224,59.42019492,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-ngat-a,hook,A-L-2,A,L,a,distant past,ng,t,FV,195.7737396,185.0691556,191.4086936,7.9850329,77.96930256,109.7827358,no minimal pair,prenasalized voiced stops,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-nol-a,sharpen by grinding,A-L-2,A,L,a,distant past,n,l,prefix,169.9014014,158.2816521,165.1948117,NA,76.06366467,68.4768327,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nol-a,sharpen by grinding,A-L-2,A,L,u,distant past,n,l,ku-,198.6572601,189.6807962,193.8120637,28.617252,71.31327967,45.05888754,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nol-a,sharpen by grinding,A-L-2,A,L,o,distant past,n,l,stem,186.1328147,181.994633,182.9603297,-10.851734,70.01234899,69.23639758,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-nol-a,sharpen by grinding,A-L-2,A,L,a,distant past,n,l,FV,189.8873058,183.8309984,185.8408014,2.8804717,78.17976144,92.93001916,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-pum-a,beat,A-L-2,A,L,a,distant past,p,m,prefix,186.1438779,165.0798635,178.0235929,NA,76.87979603,69.49892105,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+w?a-ku-pum-a,beat,A-L-2,A,L,u,distant past,p,m,ku-,194.1331664,188.9318247,193.4561486,15.4325557,71.64385457,36.31783144,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+w?a-ku-pum-a,beat,A-L-2,A,L,u,distant past,p,m,stem,197.23601,187.8792923,192.4878776,-0.968271,71.53845146,55.60133036,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+w?a-ku-pum-a,beat,A-L-2,A,L,a,distant past,p,m,FV,198.4324167,194.547261,196.3081798,3.8203022,77.35663562,102.7965855,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,prefix,179.9806564,168.6429922,175.718124,NA,76.21366051,67.00894008,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,u,distant past,t,p,ku-,196.8129895,180.9570103,193.9179372,18.1998132,65.92357705,41.14912336,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,stem,196.9279852,176.4870578,187.6219642,-6.295973,78.97528005,80.24807178,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,FV,194.2365984,180.5704135,187.3133727,-0.3085915,77.98297051,94.2428705,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-temb-a,curse,A-L-2,A,L,a,distant past,t,mb,prefix,186.0759245,165.9109996,177.8550412,NA,75.95187585,73.54725185,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-temb-a,curse,A-L-2,A,L,u,distant past,t,mb,ku-,201.3217867,195.7820827,199.3449657,21.4899245,70.41522422,36.07147134,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-temb-a,curse,A-L-2,A,L,e,distant past,t,mb,stem,200.23323,189.9527419,192.7472144,-6.5977513,74.964291,73.30863905,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+w?a-ku-temb-a,curse,A-L-2,A,L,a,distant past,t,mb,FV,191.6109874,186.3588536,188.7298729,-4.0173415,78.98393148,89.14892414,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-biy-a,cheat,B-H-1,B,H,u,infinitive,b,y,ku-,160.7449178,150.6882841,157.3747358,NA,69.41623722,63.93474917,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-biy-a,cheat,B-H-1,B,H,i,infinitive,b,y,stem,150.5322295,131.4175397,140.3763756,-16.9983602,67.33361658,55.93801393,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-biy-a,cheat,B-H-1,B,H,a,infinitive,b,y,FV,180.2907477,157.6610417,168.3617618,27.9853862,74.66350464,96.66281885,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dik-a,cover self,B-H-1,B,H,u,infinitive,d,k,ku-,151.1726288,147.574413,150.0378363,NA,64.76502729,44.92463183,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dik-a,cover self,B-H-1,B,H,i,infinitive,d,k,stem,145.0655696,135.3374025,141.6235521,-8.4142842,67.15686889,55.74590552,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dik-a,cover self,B-H-1,B,H,a,infinitive,d,k,FV,195.1480628,177.6752491,188.4087495,46.7851974,78.14061723,114.8731264,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dum-a,attack,B-H-1,B,H,u,infinitive,d,m,ku-,153.9207331,150.3841308,152.6484277,NA,65.34791714,53.86590374,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dum-a,attack,B-H-1,B,H,u,infinitive,d,m,stem,147.1782998,134.2956052,142.9113903,-9.7370374,65.24208684,66.60590544,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dum-a,attack,B-H-1,B,H,a,infinitive,d,m,FV,189.1959902,172.2728451,182.4043965,39.4930062,75.0984094,113.8776048,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gand-a,mark enemy,B-H-1,B,H,u,infinitive,g,nd,ku-,147.2674154,139.8406453,145.546144,NA,64.0533156,50.24286177,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-gand-a,mark enemy,B-H-1,B,H,a,infinitive,g,nd,stem,144.1618066,138.3959686,140.6110676,-4.9350764,73.29657869,79.13867453,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-gand-a,mark enemy,B-H-1,B,H,a,infinitive,g,nd,FV,188.394475,166.6855363,181.6915575,41.0804899,77.9182033,106.1573777,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-got-a,arrive at goal,B-H-1,B,H,u,infinitive,g,t,ku-,146.6614639,141.8721982,145.1335991,NA,61.32879777,45.36239043,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-got-a,arrive at goal,B-H-1,B,H,o,infinitive,g,t,stem,150.8555096,139.7386015,145.7691495,0.6355504,70.96408821,67.58126305,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-got-a,arrive at goal,B-H-1,B,H,a,infinitive,g,t,FV,189.3182004,180.3151552,185.1741668,39.4050173,76.51311698,111.1128677,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-hay-a,shout praises,B-H-1,B,H,u,infinitive,h,y,ku-,149.0922686,129.2150724,143.7175002,NA,68.01257978,60.64359996,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hay-a,shout praises,B-H-1,B,H,a,infinitive,h,y,stem,148.7621604,126.2410944,136.1474043,-7.5700959,72.80733705,109.3540083,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hay-a,shout praises,B-H-1,B,H,a,infinitive,h,y,FV,196.9340477,174.4849101,188.7591476,52.6117433,78.21836726,104.5680733,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-jomb-a,be absent from work,B-H-1,B,H,u,infinitive,j,mb,ku-,152.6462008,144.6674052,149.0873726,NA,63.89140727,48.13621281,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-jomb-a,be absent from work,B-H-1,B,H,o,infinitive,j,mb,stem,152.1169059,149.0171855,150.8487914,1.7614188,71.80446914,56.48347341,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-jomb-a,be absent from work,B-H-1,B,H,a,infinitive,j,mb,FV,191.403428,176.5195889,186.3232421,35.4744507,77.75079728,106.6460555,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-khat-a,stick in throat,B-H-1,B,H,u,infinitive,kh,t,ku-,147.4749736,137.385667,143.7539058,NA,64.21029364,53.48941364,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-khat-a,stick in throat,B-H-1,B,H,a,infinitive,kh,t,stem,143.1257838,134.7750855,137.3880466,-6.3658592,69.94529653,53.30245981,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-khat-a,stick in throat,B-H-1,B,H,a,infinitive,kh,t,FV,187.4300455,178.859864,184.458165,47.0701184,76.88510854,104.3567915,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phal-a,win race,B-H-1,B,H,u,infinitive,ph,l,ku-,149.14433,141.5637696,145.9482904,NA,64.78440887,44.19165264,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-phal-a,win race,B-H-1,B,H,a,infinitive,ph,l,stem,145.4870822,136.1199278,138.6911798,-7.2571106,72.65493275,60.80160171,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-phal-a,win race,B-H-1,B,H,a,infinitive,ph,l,FV,191.5261688,165.320801,182.3854355,43.6942557,77.85580358,115.0997979,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thel-a,give up,B-H-1,B,H,u,infinitive,th,l,ku-,150.5558598,144.6221693,147.7124286,NA,64.63841234,47.21940752,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thel-a,give up,B-H-1,B,H,e,infinitive,th,l,stem,152.9283349,149.1767675,150.2445944,2.5321658,70.68568618,83.64514561,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thel-a,give up,B-H-1,B,H,a,infinitive,th,l,FV,191.243292,170.5139932,182.7581107,32.5135163,78.49620952,112.262663,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-vuk-a,be weary,B-H-1,B,H,u,infinitive,v,k,ku-,143.1174339,121.8317017,135.4373399,NA,62.62178061,64.51634581,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-vuk-a,be weary,B-H-1,B,H,u,infinitive,v,k,stem,148.5062565,139.9864614,145.7109834,10.2736435,65.82233339,43.65540144,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-vuk-a,be weary,B-H-1,B,H,a,infinitive,v,k,FV,195.2745716,183.199433,190.0063222,44.2953388,77.87114391,105.4816778,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-zilw-a,be rich,B-H-1,B,H,u,infinitive,z,lw,ku-,154.7976813,131.6451694,148.3725466,NA,66.86054175,67.85505252,no minimal pair,voiced obstruents,sonorant with glide,blocker,non-blocker
+ku-zilw-a,be rich,B-H-1,B,H,i,infinitive,z,lw,stem,152.1266157,139.0071013,148.4383006,0.065754,69.67168265,64.64816313,no minimal pair,voiced obstruents,sonorant with glide,blocker,non-blocker
+ku-zilw-a,be rich,B-H-1,B,H,a,infinitive,z,lw,FV,201.5402578,187.4836029,197.208299,48.7699984,77.70953184,95.99030136,no minimal pair,voiced obstruents,sonorant with glide,blocker,non-blocker
+w?a-ku-dum-a,attack,B-H-2,B,H,a,distant past,d,m,prefix,174.5790753,161.2418974,170.1935198,NA,77.38769126,61.57991239,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dum-a,attack,B-H-2,B,H,u,distant past,d,m,ku-,210.6404722,191.9640508,205.1674601,34.9739403,69.79794178,51.50720508,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dum-a,attack,B-H-2,B,H,u,distant past,d,m,stem,144.1950762,138.6483729,142.3751175,-62.7923426,67.10993052,59.87109204,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dum-a,attack,B-H-2,B,H,a,distant past,d,m,FV,187.1107265,167.6125062,180.3642641,37.9891466,76.133382,100.9137263,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-got-a,arrive at goal,B-H-2,B,H,a,distant past,g,t,prefix,180.4362721,157.8269614,169.0557397,NA,75.64905019,56.7430955,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-got-a,arrive at goal,B-H-2,B,H,u,distant past,g,t,ku-,204.1865209,194.3439866,200.6963709,31.6406312,65.15051732,46.59143361,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-got-a,arrive at goal,B-H-2,B,H,o,distant past,g,t,stem,147.5532883,142.0229479,145.0445484,-55.6518225,72.27545675,69.81785681,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-got-a,arrive at goal,B-H-2,B,H,a,distant past,g,t,FV,187.416315,175.7031295,182.3148928,37.2703444,77.20528645,94.38458335,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-hay-a,shout praises,B-H-2,B,H,a,distant past,h,y,prefix,165.3122021,153.4097142,160.2302123,NA,73.56972284,66.52858675,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hay-a,shout praises,B-H-2,B,H,u,distant past,h,y,ku-,220.592792,165.4557265,205.5098431,45.2796308,70.71880414,75.99387673,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hay-a,shout praises,B-H-2,B,H,a,distant past,h,y,stem,143.262526,125.1404954,132.3518315,-73.1580116,71.44759346,90.23763706,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hay-a,shout praises,B-H-2,B,H,a,distant past,h,y,FV,187.9718883,164.0871573,179.1656559,46.8138244,75.78957952,107.3107857,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-jomb-a,be absent from work,B-H-2,B,H,a,distant past,j,mb,prefix,176.563641,160.3166616,170.4543829,NA,74.37941806,61.18097261,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-jomb-a,be absent from work,B-H-2,B,H,u,distant past,j,mb,ku-,206.1456907,184.8768978,201.3701685,30.9157856,69.54070485,51.23132703,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-jomb-a,be absent from work,B-H-2,B,H,o,distant past,j,mb,stem,150.4227936,143.0272687,146.7337212,-54.6364473,71.88114118,72.00101168,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-jomb-a,be absent from work,B-H-2,B,H,a,distant past,j,mb,FV,180.8191355,166.7276649,175.7949636,29.0612424,77.1865095,97.60052802,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-phal-a,win race,B-H-2,B,H,a,distant past,ph,l,prefix,174.2700805,164.7979096,170.1455924,NA,77.34233922,71.16320213,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-phal-a,win race,B-H-2,B,H,u,distant past,ph,l,ku-,214.7997741,197.883095,210.1976403,40.0520479,72.10483337,41.73320618,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-phal-a,win race,B-H-2,B,H,a,distant past,ph,l,stem,146.1068916,135.8436415,139.6849334,-70.5127069,73.11066267,64.18439499,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-phal-a,win race,B-H-2,B,H,a,distant past,ph,l,FV,188.619497,162.9602725,180.5473077,40.8623743,78.28595911,113.5802245,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-bal-a,bear offspring,B-L-1,B,L,u,infinitive,b,l,ku-,130.7298457,125.5633294,129.9233649,NA,64.13373505,33.51984118,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bal-a,bear offspring,B-L-1,B,L,a,infinitive,b,l,stem,137.0544142,128.7622832,132.2948842,2.3715193,75.55261183,64.35814857,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bal-a,bear offspring,B-L-1,B,L,a,infinitive,b,l,FV,161.5025222,154.0662478,159.3730556,27.0781714,78.49422738,111.258763,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-biy-a,steal for,B-L-1,B,L,u,infinitive,b,y,ku-,134.0256779,129.2133034,131.7660095,NA,63.65225531,39.21651605,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-biy-a,steal for,B-L-1,B,L,i,infinitive,b,y,stem,147.3488511,125.8091629,134.9093067,3.1432972,67.51388057,69.47899206,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-biy-a,steal for,B-L-1,B,L,a,infinitive,b,y,FV,173.4803311,168.1761549,171.7909674,36.8816607,77.68566724,93.07115086,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dan-a,call,B-L-1,B,L,u,infinitive,d,n,ku-,139.6999559,137.1719006,138.197557,NA,63.1563849,42.35827871,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dan-a,call,B-L-1,B,L,a,infinitive,d,n,stem,143.2580901,133.6321396,140.218637,2.02108,74.82857092,72.93358936,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dan-a,call,B-L-1,B,L,a,infinitive,d,n,FV,182.7705419,175.2158416,180.3546981,40.1360611,75.74342621,108.0222634,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dik-a,spill,B-L-1,B,L,u,infinitive,d,k,ku-,134.8881989,131.8017963,133.5301725,NA,62.22925083,44.2281874,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dik-a,spill,B-L-1,B,L,i,infinitive,d,k,stem,141.653403,130.9373151,137.0819413,3.5517688,66.0885226,56.6638014,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dik-a,spill,B-L-1,B,L,a,infinitive,d,k,FV,181.8025739,170.9718782,175.0958496,38.0139083,78.84674095,103.6851861,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-gal-a,ride horse,B-L-1,B,L,u,infinitive,g,l,ku-,146.2402089,141.5789423,144.3306977,NA,64.63337877,43.80346443,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gal-a,ride horse,B-L-1,B,L,a,infinitive,g,l,stem,149.4459113,132.058465,142.4209066,-1.9097911,76.44658393,70.70933161,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gal-a,ride horse,B-L-1,B,L,a,infinitive,g,l,FV,182.1304866,167.1063674,175.6578847,33.2369781,80.25184889,108.9750753,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gon-a,sleep,B-L-1,B,L,u,infinitive,g,n,ku-,138.2590545,135.1370821,137.7024935,NA,58.64046945,36.34929392,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gon-a,sleep,B-L-1,B,L,o,infinitive,g,n,stem,151.2938983,137.8765267,147.4251549,9.7226614,72.68952182,69.15556019,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gon-a,sleep,B-L-1,B,L,a,infinitive,g,n,FV,182.0443435,172.6350699,179.3394071,31.9142522,75.28994901,110.5153335,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-hal-a,inherit,B-L-1,B,L,u,infinitive,h,l,ku-,150.2780178,130.6959919,144.8948206,NA,65.58855036,52.02403144,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hal-a,inherit,B-L-1,B,L,a,infinitive,h,l,stem,160.0027307,145.3210141,152.5087199,7.6138993,75.55966769,72.66277329,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hal-a,inherit,B-L-1,B,L,a,infinitive,h,l,FV,195.2417978,179.8004233,189.3740406,36.8653207,80.43724444,115.204716,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hol-a,receive,B-L-1,B,L,u,infinitive,h,l,ku-,139.4608714,124.4255124,134.4715432,NA,61.2710678,48.82879902,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hol-a,receive,B-L-1,B,L,o,infinitive,h,l,stem,165.4377608,147.4572228,157.7937566,23.3222134,71.63209949,67.59289944,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hol-a,receive,B-L-1,B,L,a,infinitive,h,l,FV,195.11697,183.9697841,190.2281626,32.434406,79.06597682,102.3994258,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-jam-a,dance,B-L-1,B,L,u,infinitive,j,m,ku-,139.8448859,133.2059874,136.7943324,NA,62.29804065,48.78932172,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jam-a,dance,B-L-1,B,L,a,infinitive,j,m,stem,152.4978399,149.9041931,151.4340851,14.6397527,76.59039668,66.43010444,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jam-a,dance,B-L-1,B,L,a,infinitive,j,m,FV,184.2690939,177.68061,181.4109452,29.9768601,77.25606578,100.2725645,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-khat-a,cut lightly,B-L-1,B,L,u,infinitive,kh,t,ku-,143.3170414,135.5238168,139.6548272,NA,62.20911076,48.00255383,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-khat-a,cut lightly,B-L-1,B,L,a,infinitive,kh,t,stem,159.6724266,146.6234725,150.9961103,11.3412831,72.56774872,63.47234279,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-khat-a,cut lightly,B-L-1,B,L,a,infinitive,kh,t,FV,193.7858199,180.9174268,189.8197708,38.8236605,77.44434886,108.6111204,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-nthony-a,leak,B-L-1,B,L,u,infinitive,nth,ny,ku-,158.6332618,149.8390834,156.2645167,NA,65.90902029,51.69478651,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+ku-nthony-a,leak,B-L-1,B,L,o,infinitive,nth,ny,stem,159.9959953,148.8676328,152.8740495,-3.3904672,68.68249064,66.78875413,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+ku-nthony-a,leak,B-L-1,B,L,a,infinitive,nth,ny,FV,199.7897545,191.2703175,196.9670503,44.0930008,75.90927665,118.1358911,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+ku-phut-a,blow on,B-L-1,B,L,u,infinitive,ph,t,ku-,139.5829328,137.3367494,138.8123889,NA,62.82767306,33.20256188,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phut-a,blow on,B-L-1,B,L,u,infinitive,ph,t,stem,157.556723,152.0985565,154.7510641,15.9386752,65.58004902,47.11739623,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phut-a,blow on,B-L-1,B,L,a,infinitive,ph,t,FV,193.4660555,184.7466997,190.8497803,36.0987162,77.92042222,113.4957975,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-thel-a,arrive at goal,B-L-1,B,L,u,infinitive,th,l,ku-,143.4378929,139.3159352,140.8081278,NA,61.56283278,39.289102,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thel-a,arrive at goal,B-L-1,B,L,e,infinitive,th,l,stem,173.6959319,163.1097274,167.5357031,26.7275753,73.05730132,80.8442334,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thel-a,arrive at goal,B-L-1,B,L,a,infinitive,th,l,FV,193.3013775,182.2422103,189.3109291,21.775226,78.6897656,110.2914939,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-vin-a,dance,B-L-1,B,L,u,infinitive,v,n,ku-,147.731471,132.1193749,142.9574805,NA,66.54272204,47.18341806,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vin-a,dance,B-L-1,B,L,i,infinitive,v,n,stem,149.0220807,137.020219,146.6012625,3.643782,69.21681377,51.60928839,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vin-a,dance,B-L-1,B,L,a,infinitive,v,n,FV,192.7026269,180.9703646,189.642123,43.0408605,76.04305114,104.7612823,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vun-a,harvest,B-L-1,B,L,u,infinitive,v,n,ku-,153.8535483,128.2031868,146.0858333,NA,67.15474369,50.89550771,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vun-a,harvest,B-L-1,B,L,u,infinitive,v,n,stem,152.3248763,135.6338492,145.2397015,-0.8461318,69.39967382,47.57623613,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vun-a,harvest,B-L-1,B,L,a,infinitive,v,n,FV,183.0854527,172.7613989,179.5532093,34.3135078,76.11250486,109.7507138,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zil-a,reject,B-L-1,B,L,u,infinitive,z,l,ku-,147.3857895,132.8255756,144.0570617,NA,67.18798268,60.499745,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zil-a,reject,B-L-1,B,L,i,infinitive,z,l,stem,149.0923391,140.2726007,146.903566,2.8465043,68.35797587,41.07340968,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zil-a,reject,B-L-1,B,L,a,infinitive,z,l,FV,187.01587,170.8038174,181.1741495,34.2705835,79.71249861,121.4941296,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-bal-a,bear offspring,B-L-2,B,L,a,distant past,b,l,prefix,175.3189521,164.6066324,170.7785908,NA,77.6100561,58.74145714,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-bal-a,bear offspring,B-L-2,B,L,u,distant past,b,l,ku-,198.393711,184.2050194,195.0885694,24.3099786,69.39441596,31.80937466,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-bal-a,bear offspring,B-L-2,B,L,a,distant past,b,l,stem,153.3989303,138.6003525,145.8079226,-49.2806468,77.66171447,69.9474518,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-bal-a,bear offspring,B-L-2,B,L,a,distant past,b,l,FV,178.4524157,170.8391618,176.2605702,30.4526476,78.75474035,110.9714471,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dan-a,call,B-L-2,B,L,a,distant past,d,n,prefix,185.599779,166.3546702,178.3869817,NA,76.46773331,61.19179277,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dan-a,call,B-L-2,B,L,u,distant past,d,n,ku-,196.2565495,180.2774159,191.1730309,12.7860492,69.59989356,45.56307266,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dan-a,call,B-L-2,B,L,a,distant past,d,n,stem,161.040803,152.5453966,154.8419063,-36.3311246,78.21054212,81.70422513,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dan-a,call,B-L-2,B,L,a,distant past,d,n,FV,195.6139684,180.4453981,191.4366608,36.5947545,76.10709614,107.0385568,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gal-a,ride horse,B-L-2,B,L,a,distant past,g,l,prefix,178.2952854,165.1766088,174.4245205,NA,76.65736304,62.77879974,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gal-a,ride horse,B-L-2,B,L,u,distant past,g,l,ku-,207.1219078,193.943919,202.4647238,28.0402033,71.13836144,40.72479136,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gal-a,ride horse,B-L-2,B,L,a,distant past,g,l,stem,170.3067199,153.8897494,160.5646027,-41.9001211,77.88893711,90.92711612,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gal-a,ride horse,B-L-2,B,L,a,distant past,g,l,FV,188.6070213,178.7042677,186.0061549,25.4415522,79.39237738,108.7596943,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gon-a,sleep,B-L-2,B,L,a,distant past,g,n,prefix,174.9168303,162.4533816,169.9913842,NA,76.07611398,63.62688758,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gon-a,sleep,B-L-2,B,L,u,distant past,g,n,ku-,193.9783152,188.3006215,192.4324491,22.4410649,61.60451119,29.56650486,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gon-a,sleep,B-L-2,B,L,o,distant past,g,n,stem,163.6402333,153.3075233,160.8146235,-31.6178256,75.97368834,62.38234979,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-gon-a,sleep,B-L-2,B,L,a,distant past,g,n,FV,187.6351503,177.0678157,184.634216,23.8195925,75.60334599,111.144244,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-hal-a,inherit,B-L-2,B,L,a,distant past,h,l,prefix,186.9053154,164.6665793,177.4245223,NA,75.5470635,65.28835988,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hal-a,inherit,B-L-2,B,L,u,distant past,h,l,ku-,207.9420132,167.5937842,194.8252941,17.4007718,71.23731876,58.34157081,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hal-a,inherit,B-L-2,B,L,a,distant past,h,l,stem,150.8663779,135.7589178,142.3950137,-52.4302804,74.89640246,85.38659106,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hal-a,inherit,B-L-2,B,L,a,distant past,h,l,FV,188.7667539,172.2973768,183.5059888,41.1109751,79.11591649,114.9307176,no minimal pair,aspirates,sonorants,blocker,non-blocker
+w?a-ku-nthony-a,leak,B-L-2,B,L,a,distant past,nth,ny,prefix,177.715951,165.6629201,172.3290676,NA,77.42780655,61.39839093,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+w?a-ku-nthony-a,leak,B-L-2,B,L,u,distant past,nth,ny,ku-,209.7675545,196.645699,205.7453694,33.4163018,70.89550097,48.87362637,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+w?a-ku-nthony-a,leak,B-L-2,B,L,o,distant past,nth,ny,stem,149.4288819,143.7112367,145.5261993,-60.2191701,68.43741289,53.62617977,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+w?a-ku-nthony-a,leak,B-L-2,B,L,a,distant past,nth,ny,FV,196.1988164,189.1155275,193.7957906,48.2695913,74.8002193,91.55696037,no minimal pair,prenasalized aspirates,sonorant with glide,blocker,non-blocker
+w?a-ku-phut-a,blow on,B-L-2,B,L,a,distant past,ph,t,prefix,183.5841474,169.6793164,178.0368993,NA,77.19302273,63.03018067,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phut-a,blow on,B-L-2,B,L,u,distant past,ph,t,ku-,206.9865278,196.5107853,204.1426709,26.1057716,71.61287295,34.98844372,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phut-a,blow on,B-L-2,B,L,u,distant past,ph,t,stem,153.5356475,149.0782104,151.2234052,-52.9192657,66.36970224,44.49799518,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phut-a,blow on,B-L-2,B,L,a,distant past,ph,t,FV,189.1480836,184.4435679,187.0219073,35.7985021,78.09332558,110.2929055,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-vin-a,dance,B-L-2,B,L,a,distant past,v,n,prefix,182.6468171,163.4053365,174.2553923,NA,75.28090422,64.61705046,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vin-a,dance,B-L-2,B,L,u,distant past,v,n,ku-,197.8162325,160.7351583,182.6607912,8.4053989,68.56766177,39.26240313,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vin-a,dance,B-L-2,B,L,i,distant past,v,n,stem,158.4783545,154.2335068,157.4717517,-25.1890395,70.65845193,50.8812786,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vin-a,dance,B-L-2,B,L,a,distant past,v,n,FV,192.8750464,176.5290628,187.8493243,30.3775726,73.42665818,116.3261555,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vun-a,harvest,B-L-2,B,L,a,distant past,v,n,prefix,184.742193,167.055457,177.0597099,NA,76.90332536,60.90399369,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vun-a,harvest,B-L-2,B,L,u,distant past,v,n,ku-,196.0077856,157.2849171,183.9788102,6.9191003,67.45831389,48.48427555,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vun-a,harvest,B-L-2,B,L,u,distant past,v,n,stem,157.3228678,140.9849977,149.7999481,-34.1788621,68.85467387,48.42125798,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-vun-a,harvest,B-L-2,B,L,a,distant past,v,n,FV,191.5901089,178.7244968,187.5174874,37.7175393,74.6417628,114.2908602,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-zil-a,reject,B-L-2,B,L,a,distant past,z,l,prefix,180.919392,165.7677005,175.0945157,NA,75.2240092,64.72202486,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-zil-a,reject,B-L-2,B,L,u,distant past,z,l,ku-,207.741571,168.8542284,196.7117972,21.6172815,72.55684508,64.09141707,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-zil-a,reject,B-L-2,B,L,i,distant past,z,l,stem,155.2712712,144.7648116,152.6225725,-44.0892247,69.57751791,51.46212051,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-zil-a,reject,B-L-2,B,L,a,distant past,z,l,FV,185.3334007,175.3195002,182.0449426,29.4223701,77.28159407,110.7105221,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-cinth-a,be strong,C-H-1,C,H,u,infinitive,c,nth,ku-,144.4833514,137.1498142,141.5770732,NA,64.53762174,51.19840357,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-cinth-a,be strong,C-H-1,C,H,i,infinitive,c,nth,stem,152.7057648,139.310408,148.2637272,6.686654,67.80298175,57.60162626,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-cinth-a,be strong,C-H-1,C,H,a,infinitive,c,nth,FV,188.1519614,154.5341386,174.2294884,25.9657612,76.94637769,115.5846982,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-cinth-a,be strong,C-H-2,C,H,a,distant past,c,nth,prefix,184.7967843,161.8597922,175.1699361,NA,74.77686112,69.89846786,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-cinth-a,be strong,C-H-2,C,H,u,distant past,c,nth,ku-,215.9514315,206.9517957,212.8637504,37.6938143,74.3897731,50.52063292,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-cinth-a,be strong,C-H-2,C,H,i,distant past,c,nth,stem,193.6019636,154.1816988,178.6343509,-34.2293995,70.80439564,58.60471159,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-cinth-a,be strong,C-H-2,C,H,a,distant past,c,nth,FV,185.530134,167.6594407,178.8773429,0.242992,76.42118109,115.8314714,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-punthw-a,fumble,C-H-2,C,H,a,distant past,p,nth,prefix,182.7316686,166.3484658,177.0331214,NA,77.02793863,56.98224331,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-punthw-a,fumble,C-H-2,C,H,u,distant past,p,nth,ku-,201.8469111,191.0295616,199.0982699,22.0651485,72.46193392,31.92112924,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-punthw-a,fumble,C-H-2,C,H,u,distant past,p,nth,stem,205.9803577,178.1776699,196.2958161,-2.8024538,72.04890028,55.69823852,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-punthw-a,fumble,C-H-2,C,H,a,distant past,p,nth,FV,188.2575257,180.4695243,185.9860676,-10.3097485,77.41549725,58.44584586,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-fuz-a,be full,C-L-1,C,L,u,infinitive,f,z,ku-,135.7940559,131.4860099,134.2446113,NA,60.36068411,34.94472753,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-fuz-a,be full,C-L-1,C,L,u,infinitive,f,z,stem,218.4800319,186.6397069,212.1308269,77.8862156,70.96309115,69.35850248,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-fuz-a,be full,C-L-1,C,L,a,infinitive,f,z,FV,145.5857717,131.5112688,139.0033891,-73.1274378,75.77833353,103.132242,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-koz-a,urinate,C-L-1,C,L,u,infinitive,k,z,ku-,143.5725765,138.6100504,141.7748109,NA,60.31317387,35.38443067,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-koz-a,urinate,C-L-1,C,L,o,infinitive,k,z,stem,212.9347177,185.2512021,207.1727008,65.3978899,74.1484806,90.93653017,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-koz-a,urinate,C-L-1,C,L,a,infinitive,k,z,FV,151.092051,140.8378074,146.0979584,-61.0747424,75.77088279,105.9933713,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-likh-a,cut down tree,C-L-1,C,L,u,infinitive,l,kh,ku-,173.9577068,150.8735025,161.3471458,NA,66.49157837,66.74315513,no minimal pair,sonorants,aspirates,non-blocker,blocker
+ku-likh-a,cut down tree,C-L-1,C,L,i,infinitive,l,kh,stem,212.9131954,182.561961,203.0495488,41.702403,72.6916733,74.34875299,no minimal pair,sonorants,aspirates,non-blocker,blocker
+ku-likh-a,cut down tree,C-L-1,C,L,a,infinitive,l,kh,FV,156.8024477,129.6785502,138.6022416,-64.4473072,72.17945157,82.63023092,no minimal pair,sonorants,aspirates,non-blocker,blocker
+ku-mij-a,scatter,C-L-1,C,L,u,infinitive,m,j,ku-,159.8584068,156.3808133,158.1595874,NA,65.47224791,41.7285969,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-mij-a,scatter,C-L-1,C,L,i,infinitive,m,j,stem,215.5820124,193.9766001,209.097523,50.9379356,71.45375822,71.22981041,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-mij-a,scatter,C-L-1,C,L,a,infinitive,m,j,FV,152.6289678,137.5552175,143.40431,-65.693213,75.9213104,92.48526102,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-tinkh-a,hate,C-L-1,C,L,u,infinitive,t,nkh,ku-,146.902871,138.2971948,140.6555554,NA,62.10075517,44.54784336,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-tinkh-a,hate,C-L-1,C,L,i,infinitive,t,nkh,stem,220.5505049,201.2670921,214.6633351,74.0077797,69.49079708,53.05705655,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-tinkh-a,hate,C-L-1,C,L,a,infinitive,t,nkh,FV,158.0942821,133.0366932,140.8898859,-73.7734492,72.87650842,109.6873778,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-w?ej-a,fish,C-L-1,C,L,u,infinitive,w?,j,ku-,151.0113988,146.5512171,148.7386183,NA,65.74752067,58.66271862,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-w?ej-a,fish,C-L-1,C,L,e,infinitive,w?,j,stem,204.4194282,186.3918497,199.5643627,50.8257444,76.96034737,82.35656241,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-w?ej-a,fish,C-L-1,C,L,a,infinitive,w?,j,FV,154.6151256,138.6434053,145.9166458,-53.6477169,75.82284732,107.6428898,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+ku-woth-a,warm self,C-L-1,C,L,u,infinitive,w,th,ku-,151.7517511,147.5496373,148.4744396,NA,63.56779957,66.75643769,no minimal pair,sonorants,aspirates,non-blocker,blocker
+ku-woth-a,warm self,C-L-1,C,L,o,infinitive,w,th,stem,197.8943146,190.7040867,196.1607114,47.6862718,71.39473841,49.46316214,no minimal pair,sonorants,aspirates,non-blocker,blocker
+ku-woth-a,warm self,C-L-1,C,L,a,infinitive,w,th,FV,177.8798287,142.1619623,154.4261335,-41.7345779,73.68969641,98.18530715,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-cov-a,gamble,C-L-2,C,L,a,distant past,c,v,prefix,184.6089351,169.6688346,178.6125007,NA,77.52330687,75.99736456,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-cov-a,gamble,C-L-2,C,L,u,distant past,c,v,ku-,195.3524365,185.3071335,192.9443103,14.3318096,63.17884694,25.95780518,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-cov-a,gamble,C-L-2,C,L,o,distant past,c,v,stem,215.1263753,170.4811587,204.2167524,11.2724421,74.34328546,100.3738764,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-cov-a,gamble,C-L-2,C,L,a,distant past,c,v,FV,155.4564232,145.6543434,151.4503364,-52.766416,77.73212734,99.96362088,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-fuz-a,be full,C-L-2,C,L,a,distant past,f,z,prefix,189.9056344,168.7213428,181.4728063,NA,77.47793943,71.28737503,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-fuz-a,be full,C-L-2,C,L,u,distant past,f,z,ku-,201.4886095,192.1515433,200.0552028,18.5823965,69.63602103,37.01876169,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-fuz-a,be full,C-L-2,C,L,u,distant past,f,z,stem,221.1517317,195.409603,215.8540429,15.7988401,71.83111005,71.38701995,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-fuz-a,be full,C-L-2,C,L,a,distant past,f,z,FV,158.2753908,148.7322146,153.7085389,-62.145504,77.55086047,105.502895,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-kankh-a,push,C-L-2,C,L,a,distant past,k,nkh,prefix,190.7768054,171.6611189,182.7069781,NA,78.23039628,70.73606134,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-kankh-a,push,C-L-2,C,L,u,distant past,k,nkh,ku-,203.4354737,195.6324023,200.8582606,18.1512825,70.144291,43.84134699,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-kankh-a,push,C-L-2,C,L,a,distant past,k,nkh,stem,209.1687098,167.4775964,189.3886604,-11.4696002,77.83741565,73.57702701,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-kankh-a,push,C-L-2,C,L,a,distant past,k,nkh,FV,163.2018323,141.2009204,149.20381,-40.1848504,72.71594595,97.42593811,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-koz-a,urinate,C-L-2,C,L,a,distant past,k,z,prefix,187.6006662,170.9445009,180.4446429,NA,77.74813816,67.2797047,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-koz-a,urinate,C-L-2,C,L,u,distant past,k,z,ku-,207.143693,194.3744274,204.0922288,23.6475859,69.68080754,41.7413856,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-koz-a,urinate,C-L-2,C,L,o,distant past,k,z,stem,212.2493568,184.1532824,205.9304919,1.8382631,74.88773374,74.87730834,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-koz-a,urinate,C-L-2,C,L,a,distant past,k,z,FV,157.5937701,145.3076067,151.0560876,-54.8744043,76.47348112,95.76546087,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+w?a-ku-likh-a,cut down tree,C-L-2,C,L,a,distant past,l,kh,prefix,187.7549946,171.8318696,181.6446763,NA,76.12514915,64.85057041,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-likh-a,cut down tree,C-L-2,C,L,u,distant past,l,kh,ku-,207.3685211,196.8038222,199.4462178,17.8015415,71.79554273,75.18709755,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-likh-a,cut down tree,C-L-2,C,L,i,distant past,l,kh,stem,222.8152095,196.1566796,214.257921,14.8117032,69.94974146,69.72742017,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-likh-a,cut down tree,C-L-2,C,L,a,distant past,l,kh,FV,173.7348022,144.7277407,152.1131382,-62.1447828,74.11682778,95.39073472,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-mij-a,scatter,C-L-2,C,L,a,distant past,m,j,prefix,189.7801172,173.4641417,183.7345783,NA,76.64205617,68.68617449,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-mij-a,scatter,C-L-2,C,L,u,distant past,m,j,ku-,202.1976538,198.2344877,200.7532837,17.0187054,70.76041965,37.28209795,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-mij-a,scatter,C-L-2,C,L,i,distant past,m,j,stem,221.7653822,201.6163975,217.1036833,16.3503996,71.40609444,60.72489004,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-mij-a,scatter,C-L-2,C,L,a,distant past,m,j,FV,164.6734411,148.1713596,157.0216637,-60.0820196,76.42517447,103.8457435,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-tinkh-a,hate,C-L-2,C,L,a,distant past,t,nkh,prefix,198.2420073,182.5750994,192.195543,NA,75.96512974,64.0286773,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-tinkh-a,hate,C-L-2,C,L,u,distant past,t,nkh,ku-,206.3875307,198.5740898,202.2738613,10.0783183,71.77636416,45.12221376,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-tinkh-a,hate,C-L-2,C,L,i,distant past,t,nkh,stem,229.6460897,196.6373288,214.2621145,11.9882532,70.91273213,48.41778044,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-tinkh-a,hate,C-L-2,C,L,a,distant past,t,nkh,FV,162.2476282,139.5498166,147.9372415,-66.324873,74.20590287,101.1338332,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+w?a-ku-w?ej-a,fish,C-L-2,C,L,a,distant past,w?,j,prefix,187.3597153,174.511229,182.5758636,NA,76.18464995,60.02136707,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-w?ej-a,fish,C-L-2,C,L,u,distant past,w?,j,ku-,200.0660668,196.3200426,199.6359393,17.0600757,69.24916339,33.89401635,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-w?ej-a,fish,C-L-2,C,L,e,distant past,w?,j,stem,208.2967205,198.2762905,205.8579217,6.2219824,78.10242356,70.11497049,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-w?ej-a,fish,C-L-2,C,L,a,distant past,w?,j,FV,157.6887631,145.7097149,151.7951126,-54.0628091,75.30572205,105.597393,no minimal pair,sonorants,voiced obstruents,non-blocker,blocker
+w?a-ku-woth-a,warm self,C-L-2,C,L,a,distant past,w,th,prefix,195.2249994,178.0311047,188.1485408,NA,77.98063659,72.5999615,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-woth-a,warm self,C-L-2,C,L,u,distant past,w,th,ku-,202.0256502,193.2216165,198.7873551,10.6388143,72.18280303,62.94431216,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-woth-a,warm self,C-L-2,C,L,o,distant past,w,th,stem,203.2956864,182.823014,191.4027663,-7.3845888,74.37775435,66.82718849,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-woth-a,warm self,C-L-2,C,L,a,distant past,w,th,FV,185.2853476,155.7704844,163.3342427,-28.0685236,74.83395693,90.70628961,no minimal pair,sonorants,aspirates,non-blocker,blocker
+w?a-ku-bud-a,do wrong,D-H-2,D,H,a,distant past,b,d,prefix,167.205665,153.0470215,160.2310204,NA,74.62641767,74.84456492,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-bud-a,do wrong,D-H-2,D,H,u,distant past,b,d,ku-,197.4965379,187.0578377,194.7659297,34.5349093,65.92205843,35.13212377,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-bud-a,do wrong,D-H-2,D,H,u,distant past,b,d,stem,135.1283894,130.7559539,132.9099719,-61.8559578,67.16967342,73.44091421,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-bud-a,do wrong,D-H-2,D,H,a,distant past,b,d,FV,171.2126851,146.5501,162.0231,29.1131281,76.30769301,118.3753702,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-bumph-a,be blunt,D-H-2,D,H,a,distant past,b,mph,prefix,179.1447142,163.3743707,170.9825109,NA,76.70184676,70.55373738,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-bumph-a,be blunt,D-H-2,D,H,u,distant past,b,mph,ku-,210.4739597,192.0952893,206.0719178,35.0894069,71.35532938,42.6786343,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-bumph-a,be blunt,D-H-2,D,H,u,distant past,b,mph,stem,150.0888984,141.5554972,147.2990326,-58.7728852,68.77482334,72.0983108,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-bumph-a,be blunt,D-H-2,D,H,a,distant past,b,mph,FV,181.7337227,154.1732732,172.0280337,24.7290011,75.69313791,125.3572292,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-chinth-a,be firm,D-H-2,D,H,a,distant past,ch,nth,prefix,180.3975569,168.5448852,175.6498741,NA,75.44430823,71.0864493,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-chinth-a,be firm,D-H-2,D,H,u,distant past,ch,nth,ku-,216.8823857,193.2289877,209.5100653,33.8601912,72.02529182,56.20742046,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-chinth-a,be firm,D-H-2,D,H,i,distant past,ch,nth,stem,158.4216353,142.4689625,151.6283247,-57.8817406,67.72569113,63.95554606,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-chinth-a,be firm,D-H-2,D,H,a,distant past,ch,nth,FV,181.7856002,151.3032688,171.7048053,20.0764806,74.35553757,127.3021553,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-dod-a,be deep voiced,D-H-2,D,H,a,distant past,d,d,prefix,172.5715482,153.6859272,162.91204,NA,75.89965076,75.13078814,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-dod-a,be deep voiced,D-H-2,D,H,u,distant past,d,d,ku-,205.8595324,185.673273,198.6898158,35.7777758,69.03532972,41.08123929,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-dod-a,be deep voiced,D-H-2,D,H,o,distant past,d,d,stem,145.3751855,131.2399965,140.2447516,-58.4450642,70.80336847,79.58120703,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-dod-a,be deep voiced,D-H-2,D,H,a,distant past,d,d,FV,176.1011054,150.8131859,168.9668596,28.722108,75.65707081,109.4456928,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-god-a,triumph over,D-H-2,D,H,a,distant past,g,d,prefix,173.1453297,157.872329,167.1993375,NA,76.37864167,73.97410456,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-god-a,triumph over,D-H-2,D,H,u,distant past,g,d,ku-,214.9527411,198.9372234,210.6475316,43.4481941,70.44243926,46.24232143,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-god-a,triumph over,D-H-2,D,H,o,distant past,g,d,stem,149.7345158,138.6668843,145.7049134,-64.9426182,71.7577653,76.31795679,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-god-a,triumph over,D-H-2,D,H,a,distant past,g,d,FV,180.2759767,157.6307755,170.9450433,25.2401299,75.77999739,117.7500968,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-gug-a,be old,D-H-2,D,H,a,distant past,g,g,prefix,167.4109105,158.1621813,163.5872454,NA,76.00345101,73.15229375,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-gug-a,be old,D-H-2,D,H,u,distant past,g,g,ku-,210.4416629,195.5151528,206.6323916,43.0451462,69.5216816,39.84965483,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-gug-a,be old,D-H-2,D,H,u,distant past,g,g,stem,136.4539253,128.5494315,134.283998,-72.3483936,64.51766899,63.11064767,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-gug-a,be old,D-H-2,D,H,a,distant past,g,g,FV,179.6934354,163.4485615,173.9361453,39.6521473,76.65798407,110.4512799,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-janth-a,hurrry,D-H-2,D,H,a,distant past,j,nth,prefix,173.7928515,163.8947891,168.601446,NA,76.31632904,68.61476144,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-janth-a,hurrry,D-H-2,D,H,u,distant past,j,nth,ku-,218.5682123,189.5185159,210.9478412,42.3463952,68.78380368,61.21804237,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-janth-a,hurrry,D-H-2,D,H,a,distant past,j,nth,stem,150.0547545,137.5905719,143.8763423,-67.0714989,73.28460617,68.37249619,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-janth-a,hurrry,D-H-2,D,H,a,distant past,j,nth,FV,186.2863179,157.9467009,176.7066761,32.8303338,74.4177953,115.1133813,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-banth-a,go slowly,D-L-1,D,L,u,infinitive,b,nth,ku-,147.0534134,141.2955546,145.1386815,NA,67.57790809,45.26764287,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-banth-a,go slowly,D-L-1,D,L,a,infinitive,b,nth,stem,199.3243059,177.722244,191.7950257,46.6563442,76.26943417,95.07659397,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-banth-a,go slowly,D-L-1,D,L,a,infinitive,b,nth,FV,149.9631108,139.0966688,145.7660908,-46.0289349,72.64703029,118.1471219,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-cov-a,gamble,D-L-1,D,L,u,infinitive,c,v,ku-,140.8065146,136.2974452,137.9576504,NA,63.91004777,53.90791202,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-cov-a,gamble,D-L-1,D,L,o,infinitive,c,v,stem,199.7974546,183.6998545,195.5396911,57.5820407,73.60752323,84.71096044,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-cov-a,gamble,D-L-1,D,L,a,infinitive,c,v,FV,148.5371309,134.1004258,143.5679889,-51.9717022,75.38628509,100.0346333,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-guz-a,drag,D-L-1,D,L,u,infinitive,g,z,ku-,137.4603948,132.0118064,135.7620769,NA,61.90884581,48.47884318,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-guz-a,drag,D-L-1,D,L,u,infinitive,g,z,stem,199.4570804,176.6913491,193.3456234,57.5835465,71.60729035,70.71417753,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-guz-a,drag,D-L-1,D,L,a,infinitive,g,z,FV,152.5153473,134.5796487,144.9015928,-48.4440306,76.32942365,101.9356273,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-job-a,cut out,D-L-1,D,L,u,infinitive,j,b,ku-,132.8959882,123.9551614,129.9880378,NA,62.30594505,46.63342131,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-job-a,cut out,D-L-1,D,L,o,infinitive,j,b,stem,177.6592731,163.3728536,175.0550071,45.0669693,71.01956633,60.74257612,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-job-a,cut out,D-L-1,D,L,a,infinitive,j,b,FV,128.1188576,119.621136,124.7222227,-50.3327844,74.26871826,92.35689468,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-khuch-a,pull in fishing line,D-L-1,D,L,u,infinitive,kh,ch,ku-,145.6179953,137.192896,143.5260963,NA,66.37670714,46.85696134,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-khuch-a,pull in fishing line,D-L-1,D,L,u,infinitive,kh,ch,stem,231.0481049,215.8814503,226.5811989,83.0551026,73.06207558,28.35317234,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-khuch-a,pull in fishing line,D-L-1,D,L,a,infinitive,kh,ch,FV,191.8560345,156.5650152,169.4248122,-57.1563867,76.26902529,112.9403188,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-thaz-a,spread,D-L-1,D,L,u,infinitive,th,z,ku-,139.8731669,136.5383371,137.3253789,NA,62.28244196,32.8257014,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+ku-thaz-a,spread,D-L-1,D,L,a,infinitive,th,z,stem,195.5050039,176.1447037,189.7173488,52.3919699,76.87699193,89.94992714,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+ku-thaz-a,spread,D-L-1,D,L,a,infinitive,th,z,FV,154.3752248,141.398009,147.6150263,-42.1023225,75.86994238,97.05051839,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-banth-a,go slowly,D-L-2,D,L,a,distant past,b,nth,prefix,183.3748483,166.8795654,177.5749341,NA,75.65214097,58.32564408,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-banth-a,go slowly,D-L-2,D,L,u,distant past,b,nth,ku-,203.1604222,182.60191,197.6799512,20.1050171,70.69125104,43.06578337,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-banth-a,go slowly,D-L-2,D,L,a,distant past,b,nth,stem,203.4248314,187.4414166,199.151007,1.4710558,77.42648796,82.57728336,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-banth-a,go slowly,D-L-2,D,L,a,distant past,b,nth,FV,153.3799763,143.2944583,148.8537431,-50.2972639,72.75388393,121.4748682,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+w?a-ku-cov-a,gamble,D-L-2,D,L,a,distant past,ch,v,prefix,181.8871648,168.7540332,177.7054871,NA,74.93006193,67.0226239,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-cov-a,gamble,D-L-2,D,L,u,distant past,ch,v,ku-,211.8979406,190.0105567,204.5552657,26.8497786,69.13422249,44.27691413,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-cov-a,gamble,D-L-2,D,L,o,distant past,ch,v,stem,204.9608272,167.6624311,197.2479275,-7.3073382,73.97136746,90.76624384,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-cov-a,gamble,D-L-2,D,L,a,distant past,ch,v,FV,153.0736782,139.0387198,147.654535,-49.5933925,75.51050493,108.5601105,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-guz-a,drag,D-L-2,D,L,a,distant past,g,z,prefix,188.8153157,170.6230879,180.5218701,NA,75.94426203,67.16848513,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-guz-a,drag,D-L-2,D,L,u,distant past,g,z,ku-,213.0004629,192.8206382,207.1606367,26.6387666,69.7046104,41.81878661,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-guz-a,drag,D-L-2,D,L,u,distant past,g,z,stem,210.3412273,175.5688106,199.5141846,-7.6464521,69.93347095,64.91105699,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-guz-a,drag,D-L-2,D,L,a,distant past,g,z,FV,162.8126111,146.4943409,154.7363794,-44.7778052,76.83714485,111.4187077,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-gwad-a,kneel down,D-L-2,D,L,a,distant past,gw,d,prefix,171.317479,161.7089852,167.9360368,NA,75.06433456,51.3803983,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+w?a-ku-gwad-a,kneel down,D-L-2,D,L,u,distant past,gw,d,ku-,199.8256153,190.4807896,196.3930962,28.4570594,68.2147115,36.59146658,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+w?a-ku-gwad-a,kneel down,D-L-2,D,L,a,distant past,gw,d,stem,201.7323997,190.328566,199.9237661,3.5306699,77.47064475,66.8235604,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+w?a-ku-gwad-a,kneel down,D-L-2,D,L,a,distant past,gw,d,FV,149.7284032,139.6673226,144.2025635,-55.7212026,74.9203724,115.8480563,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+w?a-ku-job-a,cut out,D-L-2,D,L,a,distant past,j,b,prefix,181.5667735,166.536279,175.1809895,NA,76.04951934,66.5999998,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-job-a,cut out,D-L-2,D,L,u,distant past,j,b,ku-,193.2362097,176.1915531,189.3115004,14.1305109,67.24209008,39.26483124,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-job-a,cut out,D-L-2,D,L,o,distant past,j,b,stem,188.32736,169.1879446,184.3577197,-4.9537807,71.78869328,69.02855793,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-job-a,cut out,D-L-2,D,L,a,distant past,j,b,FV,138.34674,129.6159517,134.7687191,-49.5890006,75.72525584,100.9913643,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+w?a-ku-khuch-a,pull in fishing line,D-L-2,D,L,a,distant past,kh,ch,prefix,186.5492962,163.9653186,177.6287636,NA,75.95420869,69.35186634,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-khuch-a,pull in fishing line,D-L-2,D,L,u,distant past,kh,ch,ku-,212.1748501,195.7350294,207.0644539,29.4356903,71.64665115,55.91021418,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-khuch-a,pull in fishing line,D-L-2,D,L,u,distant past,kh,ch,stem,226.1309928,204.9685936,219.8253637,12.7609098,72.1249241,48.23933527,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-khuch-a,pull in fishing line,D-L-2,D,L,a,distant past,kh,ch,FV,181.7290767,157.451921,165.9814947,-53.843869,74.91794438,109.9097202,no minimal pair,aspirates,aspirates,blocker,blocker
+w?a-ku-thaz-a,spread,D-L-2,D,L,a,distant past,th,z,prefix,189.7299492,169.3744089,180.9039479,NA,77.23204561,69.70769696,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-thaz-a,spread,D-L-2,D,L,u,distant past,th,z,ku-,210.9845366,198.3919175,206.3163286,25.4123807,69.86773962,50.40316817,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-thaz-a,spread,D-L-2,D,L,a,distant past,th,z,stem,205.0358974,179.1330419,200.8346527,-5.4816759,77.8256574,102.0201833,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+w?a-ku-thaz-a,spread,D-L-2,D,L,a,distant past,th,z,FV,156.0780611,141.856789,149.9145229,-50.9201298,76.47790365,121.7991292,no minimal pair,aspirates,voiced obstruents,blocker,blocker
+ku-bud-a,do wrong,D-H-1,D,H,u,infinitive,b,d,ku-,138.2882373,126.1085552,134.625293,NA,65.2903663,41.22517656,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-bud-a,do wrong,D-H-1,D,H,u,infinitive,b,d,stem,125.8640024,118.4101186,122.4712976,-12.1539954,64.14727841,64.28456463,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-bud-a,do wrong,D-H-1,D,H,a,infinitive,b,d,FV,169.5270092,142.1396138,157.6532845,35.1819869,78.83476232,105.9053762,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-bumph-a,be blunt,D-H-1,D,H,u,infinitive,b,mph,ku-,141.0182261,133.5045779,139.3746287,NA,65.59660137,36.42326883,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-bumph-a,be blunt,D-H-1,D,H,u,infinitive,b,mph,stem,134.5713329,128.9402464,132.8683978,-6.5062309,67.68779211,57.98494797,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-bumph-a,be blunt,D-H-1,D,H,a,infinitive,b,mph,FV,169.5336462,153.5930486,162.447648,29.5792502,76.55741744,84.31622386,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-chinth-a,be firm,D-H-1,D,H,u,infinitive,ch,nth,ku-,138.2290859,134.7460384,136.2788601,NA,63.47021673,49.45433453,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-chinth-a,be firm,D-H-1,D,H,i,infinitive,ch,nth,stem,150.1519447,139.2146193,147.0415555,10.7626954,67.21289341,49.29722788,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-chinth-a,be firm,D-H-1,D,H,a,infinitive,ch,nth,FV,172.9657478,158.5805205,167.0620013,20.0204458,75.76261061,95.16259375,no minimal pair,aspirates,aspirates,blocker,blocker
+ku-dod-a,be deep voiced,D-H-1,D,H,u,infinitive,d,d,ku-,130.7034584,125.4060478,128.3450247,NA,62.75027138,44.77701125,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-dod-a,be deep voiced,D-H-1,D,H,o,infinitive,d,d,stem,126.8320303,121.2293003,124.0454799,-4.2995448,67.26103015,88.29394895,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-dod-a,be deep voiced,D-H-1,D,H,a,infinitive,d,d,FV,168.375373,143.1878931,155.6884721,31.6429922,77.2673426,94.867131,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-god-a,triumph over,D-H-1,D,H,u,infinitive,g,d,ku-,134.4887786,122.7958697,130.4461778,NA,63.46977362,51.15180658,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-god-a,triumph over,D-H-1,D,H,o,infinitive,g,d,stem,123.1910665,119.8586342,121.5205415,-8.9256363,69.08183065,82.9821185,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-god-a,triumph over,D-H-1,D,H,a,infinitive,g,d,FV,167.1543798,138.1943768,154.7130727,33.1925312,77.82194899,100.4953224,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-gug-a,be old,D-H-1,D,H,u,infinitive,g,g,ku-,143.5545336,130.894456,139.2074972,NA,64.18304342,50.01174935,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-gug-a,be old,D-H-1,D,H,u,infinitive,g,g,stem,127.5133686,115.4252719,124.4916129,-14.7158843,63.26467507,71.1547552,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-gug-a,be old,D-H-1,D,H,a,infinitive,g,g,FV,178.2904334,144.5862251,162.8440918,38.3524789,77.24586563,101.881676,no minimal pair,voiced obstruents,voiced obstruents,blocker,blocker
+ku-janth-a,hurry,D-H-1,D,H,u,infinitive,j,nth,ku-,139.2989429,135.169796,137.3464215,NA,65.61095124,41.57274545,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-janth-a,hurry,D-H-1,D,H,a,infinitive,j,nth,stem,144.5217601,129.8465703,138.7432576,1.3968361,73.61865591,93.68672996,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-janth-a,hurry,D-H-1,D,H,a,infinitive,j,nth,FV,183.669006,159.6362151,174.2158754,35.4726178,76.34694335,108.3859325,no minimal pair,voiced obstruents,aspirates,blocker,blocker
+ku-mal-a,finish,A-L-1,A,L,u,infinitive,m,l,ku-,155.5612212,143.2970324,152.3425595,NA,66.21092898,54.07252934,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-mal-a,finish,A-L-1,A,L,a,infinitive,m,l,stem,176.4099943,158.028815,167.1509362,14.8083767,76.71508955,97.34562764,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-mal-a,finish,A-L-1,A,L,a,infinitive,m,l,FV,189.0879376,177.6278252,184.5319789,17.3810427,80.68659036,122.8621496,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-mang-a,tie,A-L-1,A,L,u,infinitive,m,ng,ku-,148.220566,139.1603421,145.0280865,NA,65.28303802,45.93959019,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-mang-a,tie,A-L-1,A,L,a,infinitive,m,ng,stem,165.9825695,151.8259659,159.1721332,14.1440467,74.01347685,87.05893839,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-mang-a,tie,A-L-1,A,L,a,infinitive,m,ng,FV,182.7303542,174.0472201,180.5722023,21.4000691,78.5569676,108.525098,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+ku-nat-a,be very dirty,A-L-1,A,L,u,infinitive,n,t,ku-,144.2785037,142.6393651,143.3937682,NA,65.86125282,44.12154624,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-nat-a,be very dirty,A-L-1,A,L,a,infinitive,n,t,stem,164.255012,153.3031341,157.1962136,13.8024454,76.21251462,87.87305333,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-nat-a,be very dirty,A-L-1,A,L,a,infinitive,n,t,FV,185.8330345,178.2961581,181.975774,24.7795604,78.8505242,116.8790805,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-nen-a,deride,A-L-1,A,L,u,infinitive,n,n,ku-,140.6389074,139.0450466,139.6293775,NA,65.01253863,40.76292085,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nen-a,deride,A-L-1,A,L,e,infinitive,n,n,stem,157.8920863,142.4151117,149.3995938,9.7702163,70.52833456,83.02769692,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nen-a,deride,A-L-1,A,L,a,infinitive,n,n,FV,171.8726478,168.4823408,169.0988346,19.6992408,77.05561224,107.1586787,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ng'ol-a,deny with grimace,A-L-2,A,L,u,infinitive,ng',l,ku-,151.8006845,146.6715964,150.2079778,NA,66.03305959,68.0864736,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ng'ol-a,deny with grimace,A-L-2,A,L,o,infinitive,ng',l,stem,172.9885721,162.1114322,168.3297478,18.12177,72.87494927,117.4599913,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ng'ol-a,deny with grimace,A-L-2,A,L,a,infinitive,ng',l,FV,183.3852506,179.700394,182.0497672,13.7200194,78.84885865,118.1906865,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nun-a,be fat,A-L-1,A,L,u,infinitive,n,n,ku-,151.6151951,145.5117999,148.3472408,NA,66.45131456,44.0573352,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nun-a,be fat,A-L-1,A,L,u,infinitive,n,n,stem,174.2082646,160.4021966,166.9207063,18.5734655,68.24926114,72.62894444,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nun-a,be fat,A-L-1,A,L,a,infinitive,n,n,FV,183.4835442,179.3646342,181.7248763,14.80417,76.57249243,107.8453434,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-mal-a,finish,A-L-2,A,L,a,distant past,m,l,prefix,176.4409048,166.4643234,172.7618958,NA,78.22147583,73.12109877,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-mal-a,finish,A-L-2,A,L,u,distant past,m,l,ku-,197.2434309,189.0390189,194.8082739,22.0463781,72.20544537,46.81695933,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-mal-a,finish,A-L-2,A,L,a,distant past,m,l,stem,187.2138076,183.3087046,184.3515816,-10.4566923,76.87672593,98.11899979,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-mal-a,finish,A-L-2,A,L,a,distant past,m,l,FV,195.5147598,190.1605288,192.8282306,8.476649,80.2464384,99.2734058,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-mang-a,tie,A-L-2,A,L,a,distant past,m,ng,prefix,178.1395403,165.4505901,173.0420785,NA,78.71641503,75.92444938,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+wa-ku-mang-a,tie,A-L-2,A,L,u,distant past,m,ng,ku-,199.4886899,190.014581,196.7927503,23.7506718,70.16658022,40.64493138,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+wa-ku-mang-a,tie,A-L-2,A,L,a,distant past,m,ng,stem,195.7490485,189.5984728,192.4552158,-4.3375345,76.26790841,75.57424662,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+wa-ku-mang-a,tie,A-L-2,A,L,a,distant past,m,ng,FV,197.015965,187.4607657,194.2291177,1.7739019,79.52096273,105.8312942,no minimal pair,sonorants,prenasalized voiced stops,non-blocker,non-blocker
+wa-ku-nat-a,be very dirty,A-L-2,A,L,a,distant past,n,t,prefix,178.8732026,166.7033439,173.8872877,NA,78.29366798,77.14924338,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-ku-nat-a,be very dirty,A-L-2,A,L,u,distant past,n,t,ku-,201.7519829,195.6517965,198.3449544,24.4576667,70.00819688,52.1636475,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-ku-nat-a,be very dirty,A-L-2,A,L,a,distant past,n,t,stem,186.6110691,179.9716303,181.6659163,-16.6790381,78.51382858,79.60331719,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-ku-nat-a,be very dirty,A-L-2,A,L,a,distant past,n,t,FV,196.0319959,186.5609408,190.8686271,9.2027108,80.24633324,102.9684394,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+wa-ku-nen-a,deride,A-L-2,A,L,a,distant past,n,n,prefix,170.7874499,157.7492086,166.7195696,NA,77.17802672,73.38833441,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nen-a,deride,A-L-2,A,L,u,distant past,n,n,ku-,194.2930668,187.0972859,192.0801662,25.3605966,69.27009026,47.7071995,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nen-a,deride,A-L-2,A,L,e,distant past,n,n,stem,190.5335151,177.064449,186.8770931,-5.2030731,70.16510118,74.03744107,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nen-a,deride,A-L-2,A,L,a,distant past,n,n,FV,189.1715416,186.1489749,187.5478029,0.6707098,77.53207519,107.6174299,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-ng'ol-a,deny with grimace,A-L-2,A,L,a,distant past,ng',l,prefix,174.1750141,160.1174376,168.6378713,NA,77.84332456,76.3578662,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-ng'ol-a,deny with grimace,A-L-2,A,L,u,distant past,ng',l,ku-,210.1194542,196.0988229,205.8243293,37.186458,72.26658791,58.50406868,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-ng'ol-a,deny with grimace,A-L-2,A,L,o,distant past,ng',l,stem,190.3876413,183.6997118,186.0575529,-19.7667764,74.61671912,103.5667424,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-ng'ol-a,deny with grimace,A-L-2,A,L,a,distant past,ng',l,FV,193.9929206,185.428746,189.9319266,3.8743737,80.89398896,109.4428847,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nun-a,be fat,A-L-2,A,L,a,distant past,n,n,prefix,176.3784247,164.722883,172.0000317,NA,78.15084257,78.08582332,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nun-a,be fat,A-L-2,A,L,u,distant past,n,n,ku-,202.4174405,194.2425316,198.3192992,26.3192675,70.72938197,57.61187368,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nun-a,be fat,A-L-2,A,L,u,distant past,n,n,stem,197.1703661,194.3121044,195.5866673,-2.7326319,65.93167702,73.45363604,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nun-a,be fat,A-L-2,A,L,a,distant past,n,n,FV,193.996925,188.8784705,190.8961438,-4.6905235,75.68422221,109.3676453,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-cep-a,be inadequate,A-H-1,A,H,u,infinitive,c,p,ku-,158.4613727,153.8742906,156.9234272,NA,62.50558438,51.50643344,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-cep-a,be inadequate,A-H-1,A,H,e,infinitive,c,p,stem,173.5972129,163.8131945,170.9411435,14.0177163,72.28867322,77.50521804,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-cep-a,be inadequate,A-H-1,A,H,a,infinitive,c,p,FV,191.6899663,183.3601816,186.4935308,15.5523873,78.22666318,100.7077866,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-fyot-a,be narrow at one end,A-H-1,A,H,u,infinitive,fy,t,ku-,152.9489205,148.9769637,152.448018,NA,64.64409828,27.66862152,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-fyot-a,be narrow at one end,A-H-1,A,H,o,infinitive,fy,t,stem,170.916876,166.2338814,167.4599829,15.0119649,71.50943348,74.21703856,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-fyot-a,be narrow at one end,A-H-1,A,H,a,infinitive,fy,t,FV,199.9847363,191.5746329,194.9101881,27.4502052,79.99521406,103.7188769,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-lakw-a,go astray,A-H-1,A,H,u,infinitive,l,kw,ku-,159.6668507,156.100787,158.2625136,NA,67.64404357,60.64465662,no minimal pair,sonorants,voiceless obstruent with glide,non-blocker,non-blocker
+ku-lakw-a,go astray,A-H-1,A,H,a,infinitive,l,kw,stem,167.4901186,160.3810449,163.8445142,5.5820006,78.96731896,61.13492243,no minimal pair,sonorants,voiceless obstruent with glide,non-blocker,non-blocker
+ku-lakw-a,go astray,A-H-1,A,H,a,infinitive,l,kw,FV,195.7168704,191.7333349,193.6389845,29.7944703,79.45060201,74.97248477,no minimal pair,sonorants,voiceless obstruent with glide,non-blocker,non-blocker
+ku-nam-a,lie,A-H-1,A,H,u,infinitive,n,m,ku-,157.8558759,153.8265285,155.4541644,NA,65.52315454,52.37487706,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nam-a,lie,A-H-1,A,H,a,infinitive,n,m,stem,168.2410142,159.494827,162.4614588,7.0072944,74.70940729,82.48485459,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nam-a,lie,A-H-1,A,H,a,infinitive,n,m,FV,190.0101134,185.8283084,188.0968991,25.6354403,76.88998037,101.7846706,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wil-a,be caught in trap,A-H-1,A,H,u,infinitive,w,l,ku-,165.3483696,155.3388468,160.8463816,NA,67.72504899,96.08563693,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wil-a,be caught in trap,A-H-1,A,H,i,infinitive,w,l,stem,168.9818765,165.0431592,167.6809018,6.8345202,73.54334422,44.63165531,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wil-a,be caught in trap,A-H-1,A,H,a,infinitive,w,l,FV,199.0369627,187.4746771,194.5112787,26.8303769,80.11074602,117.7309465,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-cep-a,be inadequate,A-H-2,A,H,a,distant past,c,p,prefix,177.8126501,164.7306571,171.6261641,NA,77.75370837,65.72720068,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+wa-ku-cep-a,be inadequate,A-H-2,A,H,u,distant past,c,p,ku-,216.8771325,202.5018653,212.6073967,40.9812326,67.17364963,54.04409364,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+wa-ku-cep-a,be inadequate,A-H-2,A,H,e,distant past,c,p,stem,215.5405044,181.1535753,189.4759329,-23.1314638,76.24725797,72.1929412,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+wa-ku-cep-a,be inadequate,A-H-2,A,H,a,distant past,c,p,FV,203.539357,186.6569407,193.3084327,3.8324998,78.9433988,107.3718309,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+wa-ku-fyot-a,be narrow at one end,A-H-2,A,H,a,distant past,fy,t,prefix,175.3090846,168.3649184,172.9986752,NA,76.52876012,57.24418811,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+wa-ku-fyot-a,be narrow at one end,A-H-2,A,H,u,distant past,fy,t,ku-,221.6675732,199.9633564,216.3247892,43.326114,69.87633014,37.71963352,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+wa-ku-fyot-a,be narrow at one end,A-H-2,A,H,o,distant past,fy,t,stem,197.2546163,177.5012488,183.180631,-33.1441582,73.18954667,76.85129147,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+wa-ku-fyot-a,be narrow at one end,A-H-2,A,H,a,distant past,fy,t,FV,204.1718766,190.167809,195.4935323,12.3129013,79.50275147,96.76258062,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+wa-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,prefix,176.7172797,165.8883996,170.7995559,NA,76.87481232,64.09106454,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nam-a,lie,A-H-2,A,H,u,distant past,n,m,ku-,206.8870518,201.4545265,203.4171002,32.6175443,71.83057937,57.13857443,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,stem,187.221489,174.1627001,182.3505742,-21.066526,80.00238048,75.23318074,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-nam-a,lie,A-H-2,A,H,a,distant past,n,m,FV,204.6432192,191.2079959,198.5005275,16.1499533,79.17793537,81.01705518,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-wil-a,be caught in trap,A-H-2,A,H,a,distant past,w,l,prefix,176.6968048,164.2495649,171.9412696,NA,77.9416311,69.33361586,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-wil-a,be caught in trap,A-H-2,A,H,u,distant past,w,l,ku-,211.1345606,199.435251,207.9646159,36.0233463,73.78116992,79.16086715,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-wil-a,be caught in trap,A-H-2,A,H,i,distant past,w,l,stem,184.1134361,176.0421399,180.3962078,-27.5684081,75.68354089,57.00834718,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+wa-ku-wil-a,be caught in trap,A-H-2,A,H,a,distant past,w,l,FV,198.9679268,183.0220612,189.934562,9.5383542,79.73323174,103.8412669,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-bam-a,crawl,B-L-1,B,L,u,infinitive,b,m,prefix,133.7883229,122.646464,131.8191714,NA,64.64752864,39.35820691,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bam-a,crawl,B-L-1,B,L,a,infinitive,b,m,stem,135.6336704,126.3206215,131.2315256,-0.5876458,75.01773443,71.2298003,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bam-a,crawl,B-L-1,B,L,a,infinitive,b,m,FV,175.0990844,166.4969924,170.5050176,39.273492,75.46710485,99.23837185,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bil-a,sink,B-L-1,B,L,u,infinitive,b,l,prefix,136.4748809,130.4534959,134.7828619,NA,64.37938099,42.88377431,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bil-a,sink,B-L-1,B,L,i,infinitive,b,l,stem,148.2044945,127.925016,141.9349977,7.1521358,69.01810405,72.87864309,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-bil-a,sink,B-L-1,B,L,a,infinitive,b,l,FV,180.5905461,165.8206068,174.3657782,32.4307805,79.1998149,103.9793679,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-cheel-a,set a trap,B-L-1,B,L,u,infinitive,ch,l,prefix,150.9501426,143.7935318,147.6105319,NA,65.09660703,45.1215403,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-cheel-a,set a trap,B-L-1,B,L,e,infinitive,ch,l,stem,175.9393554,167.6196025,172.6683421,25.0578102,73.00082589,50.5068478,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-cheel-a,set a trap,B-L-1,B,L,a,infinitive,ch,l,FV,196.8225589,183.1728269,191.1157485,18.4474064,80.11843444,101.4727717,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chiik-a,drive,B-L-1,B,L,u,infinitive,ch,k,prefix,143.5887428,136.7091336,139.7394158,NA,64.79125762,38.84280707,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-chiik-a,drive,B-L-1,B,L,i,infinitive,ch,k,stem,158.3298904,151.4202522,156.2336683,16.4942525,67.80495218,40.69878977,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-chiik-a,drive,B-L-1,B,L,a,infinitive,ch,k,FV,187.619483,174.8083862,179.3466621,23.1129938,79.21348886,105.7027387,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-dek-a,be quiet,B-L-1,B,L,u,infinitive,d,k,prefix,134.7673037,131.580147,133.8732238,NA,62.85009842,45.26837124,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dek-a,be quiet,B-L-1,B,L,e,infinitive,d,k,stem,144.2528692,134.5357715,141.3513084,7.4780846,70.63150624,69.09854926,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dek-a,be quiet,B-L-1,B,L,a,infinitive,d,k,FV,177.2768377,173.5063915,175.4042545,34.0529461,77.59869343,100.0452153,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-dil-a,pour out,B-L-1,B,L,u,infinitive,d,l,prefix,136.8317921,134.3241772,135.735869,NA,63.88389395,46.80271458,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dil-a,pour out,B-L-1,B,L,i,infinitive,d,l,stem,146.4434406,133.4989908,142.2546732,6.5188042,69.27599749,64.25985601,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-dil-a,pour out,B-L-1,B,L,a,infinitive,d,l,FV,175.6714224,164.7104869,171.0075021,28.7528289,78.55172476,103.5396659,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gand-a,strike,B-L-1,B,L,u,infinitive,g,nd,prefix,137.6220866,132.0521123,135.966181,NA,64.4457255,43.27754069,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-gand-a,strike,B-L-1,B,L,a,infinitive,g,nd,stem,157.4997196,141.7421168,148.3129926,12.3468116,73.56317785,77.16277566,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-gand-a,strike,B-L-1,B,L,a,infinitive,g,nd,FV,177.3484292,171.2838874,174.8538339,26.5408413,78.52117793,101.0138296,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-gul-a,buy,B-L-1,B,L,u,infinitive,g,l,prefix,141.3293908,132.6847892,139.688656,NA,65.57610445,51.4234019,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gul-a,buy,B-L-1,B,L,u,infinitive,g,l,stem,150.9614816,131.7582257,141.7351848,2.0465288,67.23269866,34.43396912,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-gul-a,buy,B-L-1,B,L,a,infinitive,g,l,FV,179.4734334,167.1289651,175.1447731,33.4095883,77.92901426,114.0734944,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-hom-a,pierce,B-L-1,B,L,u,infinitive,h,m,prefix,139.4942441,118.4623982,134.9398762,NA,64.61542974,57.91425105,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hom-a,pierce,B-L-1,B,L,o,infinitive,h,m,stem,147.5800728,125.6370511,141.6852947,6.7454185,70.51187783,77.43333455,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hom-a,pierce,B-L-1,B,L,a,infinitive,h,m,FV,189.5619622,175.212694,183.881099,42.1958043,74.67228493,102.8180212,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hum-a,howl,B-L-1,B,L,u,infinitive,h,m,prefix,144.5331148,122.6570192,139.2967944,NA,67.41930527,54.20181599,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hum-a,howl,B-L-1,B,L,u,infinitive,h,m,stem,149.4174175,130.4248293,143.2514996,3.9547052,67.54197058,60.23045297,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hum-a,howl,B-L-1,B,L,a,infinitive,h,m,FV,191.197329,179.8829745,187.3184256,44.066926,76.90771254,101.2034856,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-jal-a,close,B-L-1,B,L,u,infinitive,j,l,prefix,136.8679005,132.0693734,135.4755608,NA,62.47205159,57.19907381,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jal-a,close,B-L-1,B,L,a,infinitive,j,l,stem,150.8468772,134.203316,142.8818979,7.4063371,75.11351492,87.37721787,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jal-a,close,B-L-1,B,L,a,infinitive,j,l,FV,184.6826042,169.5935895,178.0636112,35.1817133,80.12753398,113.6332311,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jul-a,open,B-L-1,B,L,u,infinitive,j,l,prefix,141.2201301,134.7852525,138.6093767,NA,63.77168799,55.84919897,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jul-a,open,B-L-1,B,L,u,infinitive,j,l,stem,156.6963852,140.4099975,149.7526469,11.1432702,66.95576888,59.08964752,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jul-a,open,B-L-1,B,L,a,infinitive,j,l,FV,184.1177766,168.8909753,177.8015837,28.0489368,78.77477671,112.2061254,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-khom-a,reach maturity,B-L-1,B,L,u,infinitive,kh,m,prefix,149.6604567,137.6008489,146.9249041,NA,65.15779538,46.9695258,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-khom-a,reach maturity,B-L-1,B,L,o,infinitive,kh,m,stem,164.072401,155.7523242,161.2368438,14.3119397,72.56436389,50.61804682,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-khom-a,reach maturity,B-L-1,B,L,a,infinitive,kh,m,FV,193.9538568,181.2567737,187.8333386,26.5964948,76.74737628,102.7493455,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-khumb-a,desire,B-L-1,B,L,u,infinitive,kh,mb,prefix,148.1252254,134.2243999,143.648686,NA,65.38898238,47.88153546,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-khumb-a,desire,B-L-1,B,L,u,infinitive,kh,mb,stem,155.8737147,145.9854213,150.3844594,6.7357734,65.32484116,35.0894594,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-khumb-a,desire,B-L-1,B,L,a,infinitive,kh,mb,FV,191.199858,169.8005951,183.0632047,32.6787453,77.13125225,91.61922041,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-phat-a,prune,B-L-1,B,L,u,infinitive,ph,t,prefix,143.1596631,133.5181045,139.3175729,NA,64.35759324,40.29309107,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phat-a,prune,B-L-1,B,L,a,infinitive,ph,t,stem,153.9028472,143.7750241,147.190127,7.8725541,73.0928815,67.97229108,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phat-a,prune,B-L-1,B,L,a,infinitive,ph,t,FV,190.7552891,180.2283281,185.1621393,37.9720123,78.9252115,120.9571408,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phimb-a,veil,B-L-1,B,L,u,infinitive,ph,mb,prefix,144.5960038,137.3382946,142.3154706,NA,64.5060914,33.96914199,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-phimb-a,veil,B-L-1,B,L,i,infinitive,ph,mb,stem,160.7611293,156.4542222,159.116287,16.8008164,68.74725171,47.60181154,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-phimb-a,veil,B-L-1,B,L,a,infinitive,ph,mb,FV,190.6262691,173.6469648,185.7100006,26.5937136,78.3372962,104.0196974,no minimal pair,aspirates,prenasalized voiced stops,blocker,non-blocker
+ku-then-a,castrate,B-L-1,B,L,u,infinitive,th,n,prefix,146.014666,141.4972412,143.8942672,NA,64.82784146,53.38540448,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-then-a,castrate,B-L-1,B,L,e,infinitive,th,n,stem,164.3210742,157.3861786,160.3516874,16.4574202,72.24096802,64.49350089,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-then-a,castrate,B-L-1,B,L,a,infinitive,th,n,FV,194.5918016,180.9024042,189.4674577,29.1157703,75.39103182,118.8395959,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thul-a,take marriage gift,B-L-1,B,L,u,infinitive,th,l,prefix,144.1691321,138.470929,141.9535487,NA,64.98189888,50.06913495,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thul-a,take marriage gift,B-L-1,B,L,u,infinitive,th,l,stem,167.6092376,155.7828069,162.1930219,20.2394732,69.03331382,42.0247492,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thul-a,take marriage gift,B-L-1,B,L,a,infinitive,th,l,FV,185.5705651,174.6431885,180.8948464,18.7018245,79.13582812,105.2533343,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-vund-a,rot,B-L-1,B,L,u,infinitive,v,nd,prefix,139.3172895,121.7921764,135.0570393,NA,65.00250784,49.20498149,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vund-a,rot,B-L-1,B,L,u,infinitive,v,nd,stem,154.0155016,131.4310629,142.3516334,7.2945941,66.04155518,54.42653702,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vund-a,rot,B-L-1,B,L,a,infinitive,v,nd,FV,186.8078845,171.1192413,180.8735479,38.5219145,77.95571894,116.2500114,no minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vuw-a,row,B-L-1,B,L,u,infinitive,v,w,prefix,137.0731278,123.7619378,133.7519055,NA,64.05259189,44.6858204,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vuw-a,row,B-L-1,B,L,u,infinitive,v,w,stem,161.8007157,140.3581612,152.7784173,19.0265118,66.96565083,66.20470906,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-vuw-a,row,B-L-1,B,L,a,infinitive,v,w,FV,189.5391041,186.8270654,188.797896,36.0194787,79.25527802,98.56819021,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zal-a,be plentiful,B-L-1,B,L,u,infinitive,z,l,prefix,142.9167553,124.942306,137.6089917,NA,64.81575663,61.01152452,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zal-a,be plentiful,B-L-1,B,L,a,infinitive,z,l,stem,148.8587023,131.166945,143.7034214,6.0944297,75.57425607,84.67005493,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zal-a,be plentiful,B-L-1,B,L,a,infinitive,z,l,FV,186.066705,168.6027019,179.9196814,36.21626,79.32220722,115.5615273,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-zik-a,be patient,B-L-1,B,L,u,infinitive,z,k,prefix,144.9300361,132.5071383,141.2942859,NA,65.07902539,60.32435013,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-zik-a,be patient,B-L-1,B,L,i,infinitive,z,k,stem,146.2490183,136.0714025,141.8411514,0.5468655,67.02739953,45.56925598,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-zik-a,be patient,B-L-1,B,L,a,infinitive,z,k,FV,185.670646,174.7141411,179.8753353,38.0341839,78.55799603,113.8252275,no minimal pair,voiced obstruents,voiceless obstruents,blocker,non-blocker
+ku-cov-a,gamble,C-L-1,C,L,u,infinitive,c,v,ku-,158.6700992,142.4166293,151.2218219,NA,63.46991911,41.88359246,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-cov-a,gamble,C-L-1,C,L,o,infinitive,c,v,stem,213.6887304,163.6139617,203.904457,52.6826351,75.44284984,100.9434346,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-cov-a,gamble,C-L-1,C,L,a,infinitive,c,v,FV,150.6012286,141.4574563,146.9429543,-56.9615027,78.21189377,102.1747976,no minimal pair,voiceless obstruents,voiced obstruents,non-blocker,blocker
+ku-kankh-a,push,C-L-1,C,L,u,infinitive,k,nkh,ku-,148.99618,141.4777924,146.2124912,NA,64.81701566,44.43892304,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-kankh-a,push,C-L-1,C,L,a,infinitive,k,nkh,stem,198.5826721,189.1914219,196.0655753,49.8530841,77.27175039,84.65512684,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-kankh-a,push,C-L-1,C,L,a,infinitive,k,nkh,FV,151.5701834,138.9718888,143.7802895,-52.2852858,74.72292607,99.53283543,no minimal pair,voiceless obstruents,aspirates,non-blocker,blocker
+ku-lal-a,sleep,A-L-1,A,L,u,infinitive,l,l,ku-,153.4709706,143.8076309,150.1126754,NA,63.75727797,41.02855325,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-lal-a,sleep,A-L-1,A,L,a,infinitive,l,l,stem,168.2552761,156.4005446,161.7116283,11.5989529,74.59288405,85.04229237,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-lal-a,sleep,A-L-1,A,L,a,infinitive,l,l,FV,183.4475947,178.1189006,181.2409193,19.529291,77.30628612,118.1341294,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-w?al-a,shine,A-L-1,A,L,u,infinitive,w?,l,ku-,152.1024116,146.7872366,150.3825884,NA,62.50875747,56.24919809,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-w?al-a,shine,A-L-1,A,L,a,infinitive,w?,l,stem,174.5477028,160.0938662,167.1807088,16.7981204,76.16404701,93.51272523,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-w?al-a,shine,A-L-1,A,L,a,infinitive,w?,l,FV,185.1630759,181.8990612,184.1876975,17.0069887,78.06556537,120.7425144,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wal-a,taunt,A-L-1,A,L,u,infinitive,w,l,ku-,157.060669,152.4484494,156.2175409,NA,66.57019928,69.32964265,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wal-a,taunt,A-L-1,A,L,a,infinitive,w,l,stem,177.6662414,165.9759612,170.4835028,14.2659619,77.20102083,85.93593388,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wal-a,taunt,A-L-1,A,L,a,infinitive,w,l,FV,190.7171624,185.3785897,188.605503,18.1220002,78.47548247,135.1642927,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-yal-a,set table,A-L-1,A,L,u,infinitive,y,l,ku-,155.1937438,150.2813676,153.7545237,NA,63.60878716,85.6156274,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-yal-a,set table,A-L-1,A,L,a,infinitive,y,l,stem,187.8921152,176.197175,182.0265775,28.2720538,78.3137793,75.97407593,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-yal-a,set table,A-L-1,A,L,a,infinitive,y,l,FV,193.1116421,187.823717,190.6992138,8.6726363,78.64309738,126.8473497,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-bwany-a,push,B-L-1,B,L,u,infinitive,bw,ny,ku-,155.0836316,148.3496423,152.698586,NA,64.02465055,49.89186392,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ku-bwany-a,push,B-L-1,B,L,a,infinitive,bw,ny,stem,170.8792313,158.0125711,163.7049528,11.0063668,72.66778902,54.2609698,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ku-bwany-a,push,B-L-1,B,L,a,infinitive,bw,ny,FV,200.425511,194.0876982,198.3020125,34.5970597,75.22445661,108.9914468,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ku-bwat-a,boil,B-L-1,B,L,u,infinitive,bw,t,ku-,148.854484,142.7092083,146.6309201,NA,62.35091749,51.08718989,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-bwat-a,boil,B-L-1,B,L,a,infinitive,bw,t,stem,165.0101562,151.3919506,157.4335979,10.8026778,74.42700031,62.276096,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-bwat-a,boil,B-L-1,B,L,a,infinitive,bw,t,FV,195.6272389,185.199632,193.2312626,35.7976647,77.56321228,114.1109484,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-bwil-a,dip into soup,B-L-1,B,L,u,infinitive,bw,l,ku-,147.7454306,144.291569,145.8572362,NA,60.35016417,46.91416748,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-bwil-a,dip into soup,B-L-1,B,L,i,infinitive,bw,l,stem,178.1378222,163.4163198,171.6534646,25.7962284,71.36438614,44.76320273,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-bwil-a,dip into soup,B-L-1,B,L,a,infinitive,bw,l,FV,200.0376555,188.0617992,196.7316592,25.0781946,78.65432029,119.7422307,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-dyak-a,trample,B-L-1,B,L,u,infinitive,dy,k,ku-,149.4586444,142.2763799,146.9860395,NA,61.54283722,50.26081363,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-dyak-a,trample,B-L-1,B,L,a,infinitive,dy,k,stem,168.3947895,159.0696692,164.2246272,17.2385877,75.04710642,63.4753444,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-dyak-a,trample,B-L-1,B,L,a,infinitive,dy,k,FV,204.7232941,190.4208573,200.2677424,36.0431152,78.99683626,111.1464135,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-dyow?-a,put ornament,B-L-1,B,L,u,infinitive,dy,w_,ku-,157.1761467,152.073209,156.0933385,NA,64.72189635,48.83923066,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-dyow?-a,put ornament,B-L-1,B,L,o,infinitive,dy,w_,stem,178.7789764,164.2478823,173.2928839,17.1995454,72.29395887,57.83952176,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-dyow?-a,put ornament,B-L-1,B,L,a,infinitive,dy,w_,FV,199.6888277,187.1522544,196.2560438,22.9631599,78.82777978,111.6302893,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-gwil-a,work,B-L-1,B,L,u,infinitive,gw,l,ku-,147.8121486,140.7028475,145.7614122,NA,60.98559264,64.90354092,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-gwil-a,work,B-L-1,B,L,i,infinitive,gw,l,stem,170.5875114,164.6314636,167.38267,21.6212578,70.44137419,44.61458194,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-gwil-a,work,B-L-1,B,L,a,infinitive,gw,l,FV,200.3107226,191.213463,196.7663531,29.3836831,78.57434674,109.4407715,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-phwany-a,break something into pieces,B-L-1,B,L,u,infinitive,phw,ny,ku-,160.4263202,141.3160033,155.348307,NA,63.90566064,42.29020512,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ku-phwany-a,break something into pieces,B-L-1,B,L,a,infinitive,phw,ny,stem,166.2743924,154.8463811,158.7264544,3.3781474,70.63318697,49.9311517,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ku-phwany-a,break something into pieces,B-L-1,B,L,a,infinitive,phw,ny,FV,202.4993821,196.3470973,200.287919,41.5614646,75.55866617,97.93748606,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ku-phwat-a,tread on,B-L-1,B,L,u,infinitive,phw,t,ku-,145.0138544,137.4883202,141.766497,NA,63.57244612,40.0491387,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-phwat-a,tread on,B-L-1,B,L,a,infinitive,phw,t,stem,171.7329864,159.212167,162.9216985,21.1552015,71.48910911,50.74386927,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-phwat-a,tread on,B-L-1,B,L,a,infinitive,phw,t,FV,203.2153474,193.9114522,200.5271906,37.6054921,78.31549545,116.4575499,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-zyang-a,color,B-L-1,B,L,u,infinitive,zy,ng,ku-,145.6770117,127.9478467,140.7216764,NA,62.29693192,78.70252663,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-zyang-a,color,B-L-1,B,L,a,infinitive,zy,ng,stem,168.2549727,155.1064251,161.5027097,20.7810333,74.87099103,64.97570604,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-zyang-a,color,B-L-1,B,L,a,infinitive,zy,ng,FV,198.4523161,187.7391068,194.5840444,33.0813347,78.15831592,108.676148,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-phwek-a,be cheap,B-H-1,B,H,u,infinitive,phw,k,ku-,149.2652376,139.4556745,146.4026506,NA,61.49224595,41.41173288,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-phwek-a,be cheap,B-H-1,B,H,e,infinitive,phw,k,stem,157.7915185,144.7647991,152.2611946,5.858544,68.2361345,83.79578438,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-phwek-a,be cheap,B-H-1,B,H,a,infinitive,phw,k,FV,199.0588954,181.0250705,190.4285417,38.1673471,77.03513165,119.731407,no minimal pair,aspirate with glide,voiceless obstruents,blocker,non-blocker
+ku-zyang-a,turn against,B-H-1,B,H,u,infinitive,zy,ng,ku-,153.3867534,124.615592,144.7013625,NA,63.82158369,63.21849498,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-zyang-a,turn against,B-H-1,B,H,a,infinitive,zy,ng,stem,144.6470636,139.9985298,141.8803457,-2.8210168,73.10202716,65.93790759,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-zyang-a,turn against,B-H-1,B,H,a,infinitive,zy,ng,FV,198.9253988,176.5800669,192.8524954,50.9721497,77.90649181,116.4569712,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-yunkhw-a,sit uneasily,C-L-1,C,L,u,infinitive,y,nkhw,ku-,165.8418537,159.2410448,161.3230684,NA,65.27143639,53.47654705,no minimal pair,sonorants,prenasalized aspirate with glide,non-blocker,blocker
+ku-yunkhw-a,sit uneasily,C-L-1,C,L,u,infinitive,y,nkhw,stem,230.8129147,215.9364369,226.4343715,65.1113031,68.34753659,62.39015116,no minimal pair,sonorants,prenasalized aspirate with glide,non-blocker,blocker
+ku-yunkhw-a,sit uneasily,C-L-1,C,L,a,infinitive,y,nkhw,FV,153.9318711,146.1186151,151.4972564,-74.9371151,75.39515702,75.86811086,no minimal pair,sonorants,prenasalized aspirate with glide,non-blocker,blocker
+ku-punthw-a,fumble,C-H-1,C,H,u,infinitive,p,nthw,ku-,152.8939098,147.4475559,150.038645,NA,61.69595546,33.37661371,no minimal pair,voiceless obstruents,nthw,non-blocker,nthw
+ku-punthw-a,fumble,C-H-1,C,H,u,infinitive,p,nthw,stem,160.1410166,151.248155,158.2304893,8.1918443,64.31837266,64.88929831,no minimal pair,voiceless obstruents,nthw,non-blocker,nthw
+ku-punthw-a,fumble,C-H-1,C,H,a,infinitive,p,nthw,FV,200.5960742,173.816951,188.4704484,30.2399591,76.77962095,90.33365473,no minimal pair,voiceless obstruents,nthw,non-blocker,nthw
+ku-gwad-a,kneel,D-L-1,D,L,u,infinitive,gw,d,ku-,151.5021989,137.6725053,146.8868926,NA,62.99703927,55.49497425,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-gwad-a,kneel,D-L-1,D,L,a,infinitive,gw,d,stem,207.743265,196.8939084,205.1802843,58.2933917,77.23534833,61.11197176,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-gwad-a,kneel,D-L-1,D,L,a,infinitive,gw,d,FV,160.2712189,150.5032903,155.1281258,-50.0521585,78.26419665,104.2697778,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-gwaz-a,pierce violently,D-L-1,D,L,u,infinitive,gw,z,ku-,151.4556714,135.7336899,147.1480499,NA,62.05178326,49.52978164,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-gwaz-a,pierce violently,D-L-1,D,L,a,infinitive,gw,z,stem,202.3876854,182.7334444,199.6365437,52.4884938,77.09826022,68.52521423,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-gwaz-a,pierce violently,D-L-1,D,L,a,infinitive,gw,z,FV,161.7192889,151.9419633,156.5905641,-43.0459796,74.64922199,107.5243983,no minimal pair,voiced obstruent with glide,voiced obstruents,blocker,blocker
+ku-chay-a,hit,B-L-1,A,L,u,infinitive,ch,y,ku-,140.8243708,137.2344074,139.2106012,NA,63.68905294,53.79348964,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chay-a,hit,B-L-1,A,L,a,infinitive,ch,y,stem,162.8356723,144.7948528,150.9953902,11.784789,74.05148907,69.77546693,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chay-a,hit,B-L-1,A,L,a,infinitive,ch,y,FV,196.2621647,185.571126,192.4746762,41.479286,79.52460045,93.58802979,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chen-a,look decent,B-L-1,A,L,u,infinitive,ch,n,ku-,140.2976795,136.0780255,138.2146321,NA,63.29061781,46.76611792,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chen-a,look decent,B-L-1,A,L,e,infinitive,ch,n,stem,164.5059043,159.2795804,161.8783069,23.6636748,71.45113591,61.49716973,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chen-a,look decent,B-L-1,A,L,a,infinitive,ch,n,FV,192.1177196,182.7948445,190.2204962,28.3421893,74.77013421,114.5355855,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-chet-a,gossip about,B-L-1,A,L,u,infinitive,ch,t,ku-,137.3050808,130.3143198,133.5745657,NA,61.34103547,43.53666233,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-chet-a,gossip about,B-L-1,A,L,e,infinitive,ch,t,stem,166.5229467,157.267163,161.3224105,27.7478448,69.74765142,58.91659088,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-chet-a,gossip about,B-L-1,A,L,a,infinitive,ch,t,FV,192.7535688,183.7897254,189.9696997,28.6472892,77.82352461,116.7231803,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-ghalam-a,walk with head high,A-L-1 (2 syll),A,L,u,infinitive,gh,l,ku-,146.3818159,137.3129828,141.4406345,NA,66.95523188,79.9230374,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghalam-a,walk with head high,A-L-1 (2 syll),A,L,a,infinitive,gh,l,stem,182.3129361,168.7507346,176.5821225,35.141488,80.59706932,80.67632189,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghalam-a,walk with head high,A-L-1 (2 syll),A,L,a,infinitive,gh,l,stem2,189.0042322,181.1439708,186.5856309,10.0035084,80.96300409,77.0577586,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghalam-a,walk with head high,A-L-1 (2 syll),A,L,a,infinitive,gh,l,FV,161.7104572,142.8747213,149.9424493,-36.6431816,74.96123914,107.5525086,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghanaghan-a,think,A-L-1 (3 syll),A,L,u,infinitive,gh,n,ku-,147.3297334,141.0069419,145.4196285,NA,67.91458142,51.06624487,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghanaghan-a,think,A-L-1 (3 syll),A,L,a,infinitive,gh,n,stem,170.2348397,157.0686509,164.0985647,18.6789362,77.93517241,84.74826236,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghanaghan-a,think,A-L-1 (3 syll),A,L,a,infinitive,gh,n,stem2,193.9772699,184.9210448,190.9788665,26.8803018,78.89151325,81.56790698,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghanaghan-a,think,A-L-1 (3 syll),A,L,a,infinitive,gh,n,stem3,174.2933428,152.4630066,164.0338171,-26.9450494,79.29487884,83.02437293,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-ghanaghan-a,think,A-L-1 (3 syll),A,L,a,infinitive,gh,n,FV,147.5158358,136.2732673,143.3201015,-20.7137156,73.27649694,118.2125083,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-nchakat-iy-a,receive something courteously,A-L-1 (2 syll),A,L,u,infinitive,nch,k,ku-,155.9678855,140.8310472,151.6935252,NA,65.52431052,51.23885723,no minimal pair,prenasalized aspirates,voiceless obstruents,blocker,non-blocker
+ku-nchakat-iy-a,receive something courteously,A-L-1 (2 syll),A,L,a,infinitive,nch,k,stem,157.0562888,147.9616188,152.490899,0.7973738,74.04502838,70.91303543,no minimal pair,prenasalized aspirates,voiceless obstruents,blocker,non-blocker
+ku-nchakat-iy-a,receive something courteously,A-L-1 (2 syll),A,L,a,infinitive,nch,k,stem2,205.2134397,189.9851581,200.2760005,47.7851015,80.17474077,70.10801039,no minimal pair,prenasalized aspirates,voiceless obstruents,blocker,non-blocker
+ku-nchakat-iy-a,receive something courteously,A-L-1 (2 syll),A,L,i,infinitive,nch,k,iy,180.5014821,173.3077425,178.3326164,-21.9433841,68.98007806,64.31413535,no minimal pair,prenasalized aspirates,voiceless obstruents,blocker,non-blocker
+ku-nchakat-iy-a,receive something courteously,A-L-1 (2 syll),A,L,a,infinitive,nch,k,FV,163.9474503,148.5393346,155.8358283,-22.4967881,77.79045364,104.9898837,no minimal pair,prenasalized aspirates,voiceless obstruents,blocker,non-blocker
+ku-nkhong'ol-is-a,cause to pick up,A-L-1 (2 syll),A,L,u,infinitive,nkh,ng',ku-,153.1464951,143.0703577,150.3398755,NA,66.64506756,55.49428877,no minimal pair,prenasalized aspirates,sonorants,blocker,non-blocker
+ku-nkhong'ol-is-a,cause to pick up,A-L-1 (2 syll),A,L,o,infinitive,nkh,ng',stem,175.5858583,154.9649535,166.2523275,15.912452,69.2414222,61.30720474,no minimal pair,prenasalized aspirates,sonorants,blocker,non-blocker
+ku-nkhong'ol-is-a,cause to pick up,A-L-1 (2 syll),A,L,o,infinitive,nkh,ng',stem2,209.2980601,197.1465222,205.5396196,39.2872921,74.1505775,96.99420654,no minimal pair,prenasalized aspirates,sonorants,blocker,non-blocker
+ku-nkhong'ol-is-a,cause to pick up,A-L-1 (2 syll),A,L,i,infinitive,nkh,ng',is,186.8145031,156.2314154,178.5680761,-26.9715435,70.46900851,58.49301909,no minimal pair,prenasalized aspirates,sonorants,blocker,non-blocker
+ku-nkhong'ol-is-a,cause to pick up,A-L-1 (2 syll),A,L,a,infinitive,nkh,ng',FV,166.8789828,145.2007704,154.6771279,-23.8909482,77.06913741,95.04941693,no minimal pair,prenasalized aspirates,sonorants,blocker,non-blocker
+ku-thamik-a,praise,B-L-1 (2 syll),A,L,u,infinitive,th,m,ku-,146.9570601,143.2811095,145.2301582,NA,64.24380162,45.19469554,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thamik-a,praise,B-L-1 (2 syll),A,L,a,infinitive,th,m,stem,169.712864,157.2581034,162.396747,17.1665888,73.65156158,55.58100116,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thamik-a,praise,B-L-1 (2 syll),A,L,i,infinitive,th,m,stem2,205.14329,192.0085367,201.8324769,39.4357299,69.21578891,44.68612505,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thamik-a,praise,B-L-1 (2 syll),A,L,a,infinitive,th,m,FV,184.8936244,155.3073353,166.9045175,-34.9279594,79.07099441,99.06786742,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thesuw-a,cast down violently,B-L-1 (2 syll),A,L,u,infinitive,th,w,ku-,134.2138728,132.8232014,134.0062129,NA,60.40804404,23.33436496,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thesuw-a,cast down violently,B-L-1 (2 syll),A,L,e,infinitive,th,w,stem,171.4394503,163.4950956,168.2222752,34.2160623,70.11232734,74.41217402,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thesuw-a,cast down violently,B-L-1 (2 syll),A,L,u,infinitive,th,w,stem2,213.9008626,185.1924657,197.4021792,29.179904,70.30601511,76.45579871,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-thesuw-a,cast down violently,B-L-1 (2 syll),A,L,a,infinitive,th,w,FV,167.3189483,147.9648263,156.7285682,-40.673611,79.26619369,97.61031372,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-mu-pemph-a,beg,A-L-2,A,L,a,distant past,m,none,stem,187.850868,174.139678,180.866358,24.1377898,77.3652735,104.99998,no minimal pair,sonorants,none,non-blocker,none
+ti-ngu-ci-vi-pemph-a,beg,A-L-2,A,L,a,distant past,p,none,stem,194.2846514,175.966211,184.4718768,3.6055188,77.42673019,96.90441384,no minimal pair,voiceless obstruents,none,non-blocker,none
+ti-ngu-ci-vi-pumph-a,bail water,A-L-2,A,L,a,distant past,p,none,stem,188.5560402,174.333865,181.2597146,-3.2121622,78.03326209,95.28405632,no minimal pair,voiceless obstruents,none,non-blocker,none
+ti-ngu-ci-vi-simph-a,wait until exhausted,A-L-2,A,L,a,distant past,s,none,stem,184.2726624,174.0112972,178.7301773,-2.5295373,78.19804013,98.75791433,no minimal pair,voiceless obstruents,none,non-blocker,none
+ti-ngu-ci-vi-tamph-a,step carefully,A-L-2,A,L,a,distant past,t,none,stem,189.2061635,173.9026182,182.0470707,3.3168934,78.34757591,92.50202854,no minimal pair,voiceless obstruents,none,non-blocker,none
+ku-cuc-a,drip continuously,A-L-1,A,L,u,infinitive,c,c,ku-,134.7399913,127.3534366,131.2623383,NA,62.96980139,40.56576985,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-cuc-a,drip continuously,A-L-1,A,L,u,infinitive,c,c,stem,148.1347428,142.5474864,146.0989405,14.83660214,60.19737854,50.44057268,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-cuc-a,drip continuously,A-L-1,A,L,a,infinitive,c,c,FV,184.5252259,165.9329659,173.1251176,27.02617707,77.28902291,102.2730232,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-fuw?-a,skin,A-L-1,A,L,u,infinitive,f,w?,ku-,141.684335,138.3160832,139.6449005,NA,66.90499291,40.32337884,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-fuw?-a,skin,A-L-1,A,L,u,infinitive,f,w?,stem,181.0084028,174.1497308,177.6401472,37.99524673,66.89472814,74.70861588,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-fuw?-a,skin,A-L-1,A,L,a,infinitive,f,w?,FV,199.1346641,181.9184066,191.1247026,13.4845554,81.05775889,109.6771835,no minimal pair,voiceless obstruents,sonorants,non-blocker,non-blocker
+ku-las-a,stab,A-L-1,A,L,u,infinitive,l,s,ku-,146.1501666,144.7074032,145.3296987,NA,66.2794636,44.30540805,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-las-a,stab,A-L-1,A,L,a,infinitive,l,s,stem,168.9319689,153.0491712,161.1758026,15.84610388,77.03810127,67.94906115,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-las-a,stab,A-L-1,A,L,a,infinitive,l,s,FV,197.7396734,175.2977989,184.0636676,22.88786501,79.0103274,108.6047983,no minimal pair,sonorants,voiceless obstruents,non-blocker,non-blocker
+ku-liy-a,cry out,A-L-1,A,L,u,infinitive,l,y,ku-,153.8178728,148.2991949,150.034949,NA,66.58814515,39.85435001,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-liy-a,cry out,A-L-1,A,L,i,infinitive,l,y,stem,173.1747406,155.3857916,162.5710594,12.53611047,71.02210583,75.62034627,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-liy-a,cry out,A-L-1,A,L,a,infinitive,l,y,FV,190.9420892,183.7153086,188.5561475,25.98508808,79.65154811,91.33463099,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-negh-a,draw water,A-L-1,A,L,u,infinitive,n,gh,ku-,146.3886023,143.6546376,144.8884237,NA,66.22708802,46.02453725,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-negh-a,draw water,A-L-1,A,L,e,infinitive,n,gh,stem,181.6220007,166.8286054,174.0648595,29.17643579,74.97786793,91.80483018,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-negh-a,draw water,A-L-1,A,L,a,infinitive,n,gh,FV,189.2958089,174.2392063,182.6809278,8.616068236,79.49402497,132.3497742,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-now-a,be sweet,A-L-1,A,L,u,infinitive,n,w,ku-,151.3573959,147.904486,149.6674213,NA,66.52499847,50.26613239,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-now-a,be sweet,A-L-1,A,L,o,infinitive,n,w,stem,187.5473271,170.0497356,179.8917567,30.22433545,72.30350142,83.03422344,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-now-a,be sweet,A-L-1,A,L,a,infinitive,n,w,FV,191.2206204,178.786456,183.249967,3.358210275,78.60065531,93.26714478,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-penj-a,look for,A-L-1,A,L,u,infinitive,p,nj,ku-,143.3708554,138.1790572,140.5466172,NA,64.42522039,31.47500895,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-penj-a,look for,A-L-1,A,L,e,infinitive,p,nj,stem,170.3010386,166.6924323,167.8822124,27.33559521,71.14345479,64.61132615,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-penj-a,look for,A-L-1,A,L,a,infinitive,p,nj,FV,195.5577529,184.52321,190.9034387,23.02122635,79.86126231,112.459831,no minimal pair,voiceless obstruents,prenasalized voiced stops,non-blocker,non-blocker
+ku-sef-a,sift,A-L-1,A,L,u,infinitive,s,f,ku-,132.5094339,129.6865496,131.1232631,NA,58.32607578,34.09830295,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sef-a,sift,A-L-1,A,L,e,infinitive,s,f,stem,173.2814466,160.5161424,168.7268636,37.60360055,71.75735444,62.30073496,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sef-a,sift,A-L-1,A,L,a,infinitive,s,f,FV,180.6525599,169.5299988,172.8903022,4.163438591,78.67173509,102.0936425,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ti-ngu-ci-ng'ol-a,deny with grimace,A-L-2,A,L,i,other,ng',l,ti-,158.6621508,151.5996303,156.067962,NA,68.83042255,41.38068347,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ti-ngu-ci-ng'ol-a,deny with grimace,A-L-2,A,L,u,other,ng',l,ngu-,148.6294193,144.7168002,146.0140434,-10.05391862,66.71011515,40.13865645,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ti-ngu-ci-ng'ol-a,deny with grimace,A-L-2,A,L,i,other,ng',l,ci-,190.8983056,183.2215916,187.1871867,41.17314332,67.57834947,35.83753937,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ti-ngu-ci-ng'ol-a,deny with grimace,A-L-2,A,L,o,other,ng',l,stem,206.4874523,191.8265467,201.9915557,14.80436898,74.60593477,82.02303593,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ti-ngu-ci-ng'ol-a,deny with grimace,A-L-2,A,L,a,other,ng',l,FV,174.0627695,154.6461985,163.8509615,-38.14059417,80.74384144,111.7322173,no minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-jwat-ik-a,put something among things quickly,B-L-1,B,L,u,infinitive,jw,t,ku-,154.7819185,141.816311,150.7452161,NA,64.03984554,52.4696501,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-jwat-ik-a,put something among things quickly,B-L-1,B,L,a,infinitive,jw,t,stem,174.8465561,163.3857237,171.0684483,21.56941261,74.21089454,49.6473911,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-jwat-ik-a,put something among things quickly,B-L-1,B,L,i,infinitive,jw,t,ik,210.3873372,185.3745847,202.9281401,21.98886105,68.11715112,50.88944351,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-jwat-ik-a,put something among things quickly,B-L-1,B,L,a,infinitive,jw,t,FV,183.7820445,153.7061774,164.0362246,-31.66840725,78.77596722,104.1031813,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ku-thwanuk-a,open ones eyes,B-L-1 (2 syll),B,L,u,infinitive,thw,n,ku-,154.6468287,150.2925696,153.2382059,NA,64.05981328,50.42998592,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ku-thwanuk-a,open ones eyes,B-L-1 (2 syll),B,L,a,infinitive,thw,n,stem,172.0254484,159.159713,162.7257791,8.867143439,72.03940008,41.87158398,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ku-thwanuk-a,open ones eyes,B-L-1 (2 syll),B,L,u,infinitive,thw,n,stem2,213.6502759,198.6277626,210.6436283,39.46804952,67.03731075,40.06212462,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ku-thwanuk-a,open ones eyes,B-L-1 (2 syll),B,L,a,infinitive,thw,n,FV,179.2444706,158.2995243,165.4259816,-40.32823823,78.19297754,98.60319897,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ku-vwal-a,to wear clothes,B-L-1,B,L,u,infinitive,vw,l,ku-,145.6800631,124.5601905,141.0539636,NA,64.54822655,56.97436547,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-vwal-a,to wear clothes,B-L-1,B,L,a,infinitive,vw,l,stem,171.0481501,154.6639453,162.5642003,30.10375483,76.7329702,44.85294897,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-vwal-a,to wear clothes,B-L-1,B,L,a,infinitive,vw,l,FV,197.8073323,190.8974162,194.8541002,36.23347084,80.106837,106.9891842,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ku-zwezwet-a,swing to and fro,B-L-1 (2 syll),B,L,u,infinitive,zw,zw,ku-,148.668228,131.077798,143.58284,NA,64.5941245,69.5315273,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ku-zwezwet-a,swing to and fro,B-L-1 (2 syll),B,L,e,infinitive,zw,zw,stem,206.955873,176.931952,199.034262,45.854154,73.2181948,44.5104408,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ku-zwezwet-a,swing to and fro,B-L-1 (2 syll),B,L,e,infinitive,zw,zw,stem2,154.129056,132.92148,149.612959,-44.010472,69.9933993,40.007274,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ku-zwezwet-a,swing to and fro,B-L-1 (2 syll),B,L,a,infinitive,zw,zw,FV,150.513224,147.102888,148.203446,14.181408,74.6999064,94.8218312,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-bal-a,bear offspring,B-L-2,B,L,i,distant past,b,l,ti-,139.79885,130.961144,136.15564,NA,64.4016217,47.4704291,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-bal-a,bear offspring,B-L-2,B,L,u,distant past,b,l,ngu-,126.171761,119.246327,123.809884,-11.714817,60.303088,45.8630956,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-bal-a,bear offspring,B-L-2,B,L,i,distant past,b,l,ci-,196.409627,184.781932,193.473442,65.535605,65.5533684,34.0979729,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-bal-a,bear offspring,B-L-2,B,L,a,distant past,b,l,stem,130.241817,125.133582,126.991175,-59.64835,73.297964,71.3187468,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-bal-a,bear offspring,B-L-2,B,L,a,distant past,b,l,FV,125.211224,120.952428,122.483374,-4.181154,69.8876979,87.0714461,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-bwany-a,push,B-L-2,B,L,i,distant past,bw,ny,ti-,158.1446128,150.7862533,154.502828,NA,65.69765949,42.6422084,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-bwany-a,push,B-L-2,B,L,u,distant past,bw,ny,ngu-,144.1863067,135.2222271,141.40092,-15.56402619,64.95375066,44.27650392,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-bwany-a,push,B-L-2,B,L,i,distant past,bw,ny,ci-,216.3541878,208.4938523,214.1564854,73.27162519,66.13307041,34.53524147,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-bwany-a,push,B-L-2,B,L,a,distant past,bw,ny,stem,149.7309992,145.1973525,147.8182698,-63.29649977,75.51050925,56.22728833,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-bwany-a,push,B-L-2,B,L,a,distant past,bw,ny,FV,141.9764174,140.4477554,141.4241754,-4.749597111,71.25884531,78.19465336,no minimal pair,voiced obstruent with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-chik-a,drive,B-L-2,B,L,i,distant past,ch,k,ti-,152.899855,148.904984,151.536751,NA,64.9538783,47.6390302,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-chik-a,drive,B-L-2,B,L,u,distant past,ch,k,ngu-,148.059489,136.704168,145.07648,-12.200816,64.6814352,57.7813073,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-chik-a,drive,B-L-2,B,L,i,distant past,ch,k,ci-,218.466201,184.768381,212.184762,48.064213,66.7391039,55.7756629,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-chik-a,drive,B-L-2,B,L,i,distant past,ch,k,stem,164.166949,143.840837,156.007387,-40.927544,66.936234,42.7479871,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-chik-a,drive,B-L-2,B,L,a,distant past,ch,k,FV,152.592211,144.798103,146.998574,0.957266,72.7536389,95.1449653,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-dan-a,call,B-L-2,B,L,i,distant past,d,n,ti-,145.880984,140.47323,143.728737,NA,63.4429252,45.2308479,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-dan-a,call,B-L-2,B,L,u,distant past,d,n,ngu-,138.698365,131.003561,135.681492,-9.469669,63.7510423,53.8602344,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-dan-a,call,B-L-2,B,L,i,distant past,d,n,ci-,207.330162,191.281487,203.495101,60.277926,64.2558654,40.1549555,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-dan-a,call,B-L-2,B,L,a,distant past,d,n,stem,136.803346,132.516284,134.324524,-58.765203,74.1055333,74.616115,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-dan-a,call,B-L-2,B,L,a,distant past,d,n,FV,136.082038,133.619209,134.865933,1.102925,69.388135,93.8218836,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-dyak-a,trample,B-L-2,B,L,i,distant past,dy,k,ti-,152.260787,146.152734,150.832085,NA,65.5059522,44.1432047,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-dyak-a,trample,B-L-2,B,L,u,distant past,dy,k,ngu-,149.193725,135.929625,144.716968,-10.223109,64.54188,46.1792638,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-dyak-a,trample,B-L-2,B,L,i,distant past,dy,k,ci-,214.829223,201.066458,212.295002,65.136833,66.6434748,49.4246884,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-dyak-a,trample,B-L-2,B,L,a,distant past,dy,k,stem,149.205569,138.325476,144.882027,-62.740982,75.9292131,61.2403838,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-dyak-a,trample,B-L-2,B,L,a,distant past,dy,k,FV,152.429684,145.675904,149.05833,7.350428,74.8637234,93.3712217,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-gon-a,sleep,B-L-2,B,L,i,distant past,g,n,ti-,152.435181,147.075913,150.384612,NA,64.8927324,46.0858998,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-gon-a,sleep,B-L-2,B,L,u,distant past,g,n,ngu-,142.769131,137.676282,140.239608,-9.399631,63.2491625,47.7545959,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-gon-a,sleep,B-L-2,B,L,i,distant past,g,n,ci-,214.190337,196.862561,211.049976,59.186279,65.2901173,40.7365289,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-gon-a,sleep,B-L-2,B,L,o,distant past,g,n,stem,143.93799,137.779327,141.469094,-59.083234,70.8343439,74.1109212,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-gon-a,sleep,B-L-2,B,L,a,distant past,g,n,FV,136.693743,134.046624,134.807031,-3.732703,70.3511762,105.638109,no minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ti-ngu-ci-gwil-a,work,B-L-2,B,L,i,distant past,gw,l,ti-,159.773503,152.262603,156.478786,NA,66.3699758,49.379828,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-gwil-a,work,B-L-2,B,L,u,distant past,gw,l,ngu-,148.493205,143.57885,146.008798,-8.683753,65.0730686,46.909915,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-gwil-a,work,B-L-2,B,L,i,distant past,gw,l,ci-,217.306335,197.213299,212.107773,53.634449,68.5537946,52.7436998,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-gwil-a,work,B-L-2,B,L,i,distant past,gw,l,stem,154.045371,150.178794,152.579402,-47.034505,70.912967,48.9927513,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-gwil-a,work,B-L-2,B,L,a,distant past,gw,l,FV,147.913843,138.874132,144.882376,-11.304662,75.8983886,111.505208,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-hal-a,inherit,B-L-2,B,L,i,distant past,h,l,ti-,155.4808352,150.1814364,153.4632456,NA,65.27614921,45.77639588,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-hal-a,inherit,B-L-2,B,L,u,distant past,h,l,ngu-,145.9200078,138.8899244,143.3639191,-11.29151199,64.16804553,61.99451876,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-hal-a,inherit,B-L-2,B,L,i,distant past,h,l,ci-,214.0883353,184.6366585,205.9878135,45.74673407,67.3177361,55.74625102,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-hal-a,inherit,B-L-2,B,L,a,distant past,h,l,stem,142.1240432,138.1082712,139.0077219,-46.52838726,76.39157709,73.65736626,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-hal-a,inherit,B-L-2,B,L,a,distant past,h,l,FV,141.8312863,139.492937,140.6334907,1.384665723,74.77282629,103.4660549,no minimal pair,aspirates,sonorants,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,i,distant past,jw,t,ti-,162.375001,153.896714,158.640075,NA,66.8979629,48.51947,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,u,distant past,jw,t,ngu-,153.014614,141.124991,148.263661,-12.771723,65.0453981,42.2713673,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,i,distant past,jw,t,ci-,219.57556,188.848609,212.648126,47.723618,66.7180287,47.9960857,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,a,distant past,jw,t,stem,151.906973,136.637685,146.179262,-52.210924,74.8583141,52.4841593,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,i,distant past,jw,t,ik,147.363456,140.318153,144.581577,3.680468,64.8979183,40.2872265,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-jwat-ik-a,put something among things quickly,B-L-2,B,L,a,distant past,jw,t,FV,159.395064,145.367782,151.6121,5.049629,74.598582,104.78965,no minimal pair,voiced obstruent with glide,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phut-a,blow on,B-L-2,B,L,i,distant past,ph,t,ti-,158.085957,150.756678,152.901636,NA,64.9688118,47.0810929,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phut-a,blow on,B-L-2,B,L,u,distant past,ph,t,ngu-,147.348757,138.296029,144.422172,-12.460649,64.4410519,49.1295286,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phut-a,blow on,B-L-2,B,L,i,distant past,ph,t,ci-,208.864395,196.149568,205.934222,57.853539,67.6624526,43.3632122,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phut-a,blow on,B-L-2,B,L,u,distant past,ph,t,stem,157.208004,151.020671,154.489252,-45.128897,64.2539038,48.3377307,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phut-a,blow on,B-L-2,B,L,a,distant past,ph,t,FV,148.307692,135.680645,143.658819,-15.340026,72.8011169,98.1549399,no minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ti-ngu-ci-phwany-a,break something into pieces,B-L-2,B,L,i,distant past,phw,ny,ti-,162.827542,156.376266,160.641942,NA,66.5831313,50.655824,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-phwany-a,break something into pieces,B-L-2,B,L,u,distant past,phw,ny,ngu-,151.732246,142.154784,148.71959,-14.221482,65.6746856,53.6380014,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-phwany-a,break something into pieces,B-L-2,B,L,i,distant past,phw,ny,ci-,214.397093,201.499775,210.889115,59.344991,67.0348021,40.9015122,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-phwany-a,break something into pieces,B-L-2,B,L,a,distant past,phw,ny,stem,155.602837,147.337848,150.288287,-54.161927,73.516182,40.8709832,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-phwany-a,break something into pieces,B-L-2,B,L,a,distant past,phw,ny,FV,146.759865,143.105966,145.061885,-4.231882,70.5420759,100.246391,no minimal pair,aspirate with glide,sonorant with glide,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,i,distant past,thw,n,ti-,164.629679,157.801679,161.536233,NA,65.8580122,43.7814906,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,u,distant past,thw,n,ngu-,154.158124,146.464207,149.946982,-11.337472,65.105367,37.1740094,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,i,distant past,thw,n,ci-,223.372035,207.392902,218.107073,60.928695,68.0826344,42.6986457,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,a,distant past,thw,n,stem,149.206457,145.494067,146.359411,-61.898835,72.986728,47.816809,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,u,distant past,thw,n,stem2,151.3042,142.026851,148.391521,-3.467216,65.2892217,43.0682555,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-thwanuk-a,open ones eyes,B-L-2,B,L,a,distant past,thw,n,FV,152.325962,143.260859,149.067858,1.234008,74.2048002,97.4714884,no minimal pair,aspirate with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-vwal-a,to wear clothes,B-L-2,B,L,i,distant past,vw,l,ti-,156.303985,151.546312,154.215007,NA,65.5637463,51.7158198,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-vwal-a,to wear clothes,B-L-2,B,L,u,distant past,vw,l,ngu-,151.3212,144.488168,148.590853,-7.058144,64.8163628,57.195583,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-vwal-a,to wear clothes,B-L-2,B,L,i,distant past,vw,l,ci-,222.654601,191.265905,212.695219,46.777737,68.3212561,53.8394037,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-vwal-a,to wear clothes,B-L-2,B,L,a,distant past,vw,l,stem,143.023119,140.703759,141.183817,-50.562146,76.6372942,41.8219379,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-vwal-a,to wear clothes,B-L-2,B,L,a,distant past,vw,l,FV,144.643466,142.604678,143.55619,1.900919,75.6834624,104.177974,no minimal pair,voiced obstruent with glide,sonorants,blocker,non-blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,i,distant past,zw,zw,ti-,161.525624,154.754118,159.09383,NA,66.2502227,48.0258022,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,u,distant past,zw,zw,ngu-,159.521515,141.651441,152.309,-13.102677,65.9046335,41.1352459,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,i,distant past,zw,zw,ci-,218.625884,200.151238,214.674017,58.499797,68.1042272,50.9357764,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,e,distant past,zw,zw,stem,166.732194,144.341286,160.381952,-55.809952,72.4849112,56.2634788,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,e,distant past,zw,zw,stem2,148.930223,136.851183,146.948539,-7.490103,70.5868937,49.5011441,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zwezwet-a,swing to and fro,B-L-2,B,L,a,distant past,zw,zw,FV,155.379348,149.08896,150.820949,12.237777,74.3302774,97.7809862,no minimal pair,voiced obstruent with glide,voiced obstruent with glide,blocker,blocker
+ti-ngu-ci-zyang-a,color,B-L-2,B,L,i,distant past,zy,ng,ti-,160.836802,155.812034,158.954195,NA,65.7152701,50.1422394,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ti-ngu-ci-zyang-a,color,B-L-2,B,L,u,distant past,zy,ng,ngu-,156.771737,148.679032,152.807504,-7.133002,64.9294793,48.9649135,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ti-ngu-ci-zyang-a,color,B-L-2,B,L,i,distant past,zy,ng,ci-,217.861133,189.760283,211.906837,41.081251,69.1743653,68.5595006,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ti-ngu-ci-zyang-a,color,B-L-2,B,L,a,distant past,zy,ng,stem,152.655544,145.125417,148.808391,-44.634866,77.5510358,58.9414456,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ti-ngu-ci-zyang-a,color,B-L-2,B,L,a,distant past,zy,ng,FV,147.448613,138.172143,145.384956,-6.953274,75.9082763,103.43592,no minimal pair,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+ku-fuvy-a,deceive,C-L-1,C,L,u,infinitive,f,vy,ku-,147.1760381,138.955816,144.0812551,NA,62.73298507,57.87917766,no minimal pair,voiceless obstruents,voiced obstruent with glide,non-blocker,blocker
+ku-fuvy-a,deceive,C-L-1,C,L,u,infinitive,f,vy,stem,220.7992022,187.2687531,212.0546101,67.97335503,69.05843879,66.62227661,no minimal pair,voiceless obstruents,voiced obstruent with glide,non-blocker,blocker
+ku-fuvy-a,deceive,C-L-1,C,L,a,infinitive,f,vy,FV,151.6075681,143.1247879,146.2436769,-65.81093321,76.73712629,87.02014503,no minimal pair,voiceless obstruents,voiced obstruent with glide,non-blocker,blocker
+ku-sit-a,iron clothes,A-L-1,A,L,u,infinitive,s,t,ku-,159.4103073,152.2335339,155.654063,NA,59.49629938,46.53058164,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sit-a,iron clothes,A-L-1,A,L,i,infinitive,s,t,stem,201.9577584,198.1058175,201.0083426,45.35427959,61.69018043,31.97728324,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sit-a,iron clothes,A-L-1,A,L,a,infinitive,s,t,FV,203.0343902,191.2847723,197.0459451,-3.962397435,77.4878832,96.33500226,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-wil-a,throw food in mouth,A-L-1,A,L,u,infinitive,w,l,ku-,171.031181,157.1652976,162.3337327,NA,63.56673663,76.14752609,minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wil-a,throw food in mouth,A-L-1,A,L,i,infinitive,w,l,stem,197.4019584,195.0762064,196.3772804,34.04354772,74.28198187,52.5004964,minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-wil-a,throw food in mouth,A-L-1,A,L,a,infinitive,w,l,FV,207.0224447,191.9143431,201.8484018,5.471121383,76.84967773,94.54826241,minimal pair,sonorants,sonorants,non-blocker,non-blocker
+ku-vimb-a,cover,B-L-1,B,L,u,infinitive,v,mb,ku-,150.9160842,130.5955691,145.5016658,NA,64.76993051,47.54508227,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vimb-a,cover,B-L-1,B,L,i,infinitive,v,mb,stem,176.1832463,159.0742306,170.6088106,25.10714476,69.04793654,50.24833547,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vimb-a,cover,B-L-1,B,L,a,infinitive,v,mb,FV,202.8989548,192.0531937,200.4753228,29.86651228,77.75308375,99.5808551,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-sit-a,give away money in gambling,A-H-1,A,H,u,infinitive,s,t,ku-,158.9701721,155.891531,158.0914194,NA,61.5489084,48.26650494,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sit-a,give away money in gambling,A-H-1,A,H,i,infinitive,s,t,stem,167.4651161,160.8785324,165.8170912,7.725671796,62.9593965,27.83188286,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-sit-a,give away money in gambling,A-H-1,A,H,a,infinitive,s,t,FV,206.0272554,197.7981182,202.851352,37.03426083,78.40300389,95.73696295,minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-hol-a,be scored,B-H-1,B,H,u,infinitive,h,l,ku-,157.2596943,129.5734423,149.7929466,NA,66.44367753,65.41046119,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hol-a,be scored,B-H-1,B,H,o,infinitive,h,l,stem,154.2849097,130.3934855,145.78003,-4.012916648,69.13402208,89.89450467,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-hol-a,be scored,B-H-1,B,H,a,infinitive,h,l,FV,197.2240772,169.7152859,184.7598768,38.97984685,78.52522732,98.07838794,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-jam-a,jam,B-H-1,B,H,u,infinitive,j,m,ku-,155.1221974,146.1470196,151.7167373,NA,63.84054177,52.9729526,minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jam-a,jam,B-H-1,B,H,a,infinitive,j,m,stem,151.2666127,149.1326564,150.3469946,-1.369742756,74.31772898,58.70448764,minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-jam-a,jam,B-H-1,B,H,a,infinitive,j,m,FV,203.1908199,182.3927762,194.5937402,44.2467456,75.81014185,83.95507081,minimal pair,voiced obstruents,sonorants,blocker,non-blocker
+ku-phat-a,get stuck,B-H-1,B,H,u,infinitive,ph,t,ku-,152.4092782,140.5410326,149.1389065,NA,65.23804316,33.91090214,minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phat-a,get stuck,B-H-1,B,H,a,infinitive,ph,t,stem,157.79291,150.1564682,152.4191082,3.280201723,71.56172813,37.49586454,minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-phat-a,get stuck,B-H-1,B,H,a,infinitive,ph,t,FV,199.2913537,182.9294851,192.9033888,40.48428059,76.78104534,99.86547508,minimal pair,aspirates,voiceless obstruents,blocker,non-blocker
+ku-then-a,give too little,B-H-1,B,H,u,infinitive,th,n,ku-,152.8576989,145.2008122,150.3571085,NA,63.14350278,52.29993196,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-then-a,give too little,B-H-1,B,H,e,infinitive,th,n,stem,156.8869406,145.5087341,150.8359749,0.478866445,69.20085843,60.22884084,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-then-a,give too little,B-H-1,B,H,a,infinitive,th,n,FV,195.4457471,176.0018192,187.2007756,36.36480069,73.6987587,106.7759438,minimal pair,aspirates,sonorants,blocker,non-blocker
+ku-vimb-a,be constipated,B-H-1,B,H,u,infinitive,v,mb,ku-,154.0484913,131.9650153,148.5757685,NA,65.6032788,46.53356472,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vimb-a,be constipated,B-H-1,B,H,i,infinitive,v,mb,stem,147.4383135,138.8121095,145.4388018,-3.136966667,67.69271839,54.5871282,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-vimb-a,be constipated,B-H-1,B,H,a,infinitive,v,mb,FV,198.6739276,173.1496445,190.0835916,44.64478975,76.39880145,85.81389199,minimal pair,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+ku-fwas-a,be calm/quiet,A-H-1,A,H,u,infinitive,fw,s,ku-,131.4204614,123.566028,127.1006271,NA,59.67362015,36.34557671,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-fwas-a,be calm/quiet,A-H-1,A,H,a,infinitive,fw,s,stem,144.0123628,138.5272889,141.2496705,14.14904339,69.08849031,51.48104513,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-fwas-a,be calm/quiet,A-H-1,A,H,a,infinitive,fw,s,FV,181.6641265,163.3697196,169.7571879,28.50751736,73.92352813,100.7900432,no minimal pair,voiceless obstruent with glide,voiceless obstruents,non-blocker,non-blocker
+ku-gh-a,be there,A-H-1,A,H,u,infinitive,gh,none,ku-,155.5777557,145.9603262,152.9300205,NA,67.17381626,105.105921,no minimal pair,sonorants,none,non-blocker,none
+ku-gh-a,be there,A-H-1,A,H,a,infinitive,gh,none,stem,160.4293402,155.8327932,159.6140768,6.684056334,74.9316954,96.03640628,no minimal pair,sonorants,none,non-blocker,none
+ku-m-a,stand,A-H-1,A,H,u,infinitive,m,none,ku-,149.6687758,141.9575748,146.7544506,NA,65.9987774,51.81898352,no minimal pair,sonorants,none,non-blocker,none
+ku-m-a,stand,A-H-1,A,H,a,infinitive,m,none,stem,150.2822868,145.9196759,147.7595839,1.00513331,69.16586788,84.96768791,no minimal pair,sonorants,none,non-blocker,none
+ku-mw-a,drink,A-H-1,A,H,u,infinitive,mw,none,ku-,151.7572526,146.5423069,150.1498717,NA,65.65684076,50.2186824,no minimal pair,sonorants,none,non-blocker,none
+ku-mw-a,drink,A-H-1,A,H,a,infinitive,mw,none,stem,152.4780911,151.4401069,151.8905839,1.740712187,71.61520812,56.74242431,no minimal pair,sonorants,none,non-blocker,none
+ku-ng'-a,defecate,A-H-1,A,H,u,infinitive,ng',none,ku-,161.3559148,155.436534,160.2298694,NA,65.55298037,55.46853275,no minimal pair,sonorants,none,non-blocker,none
+ku-ng'-a,defecate,A-H-1,A,H,a,infinitive,ng',none,stem,159.6493793,155.8730807,156.9309999,-3.298869531,72.0231034,82.15577716,no minimal pair,sonorants,none,non-blocker,none
+ku-p-ik-a,be given,A-H-1,A,H,u,infinitive,p,k,ku-,127.8022572,120.3454789,124.8344811,NA,59.4692673,35.62645165,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-p-ik-a,be given,A-H-1,A,H,u,infinitive,p,k,stem,131.4821458,129.0941685,130.5450023,5.710521208,61.03274864,41.17509223,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-p-ik-a,be given,A-H-1,A,H,u,infinitive,p,k,FV,162.1822804,155.9401628,158.426916,27.88191364,74.76994047,94.70317428,no minimal pair,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+ku-samw-a,be choked,A-H-1,A,H,u,infinitive,s,mw,ku-,131.6621571,126.5479148,129.8208847,NA,56.73313605,44.58812775,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+ku-samw-a,be choked,A-H-1,A,H,a,infinitive,s,mw,stem,163.796389,142.9926461,151.3727769,21.55189215,71.91689366,77.97257362,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+ku-samw-a,be choked,A-H-1,A,H,a,infinitive,s,mw,FV,174.7573892,165.4917335,171.8817839,20.50900708,70.10779425,84.97794671,no minimal pair,voiceless obstruents,sonorant with glide,non-blocker,non-blocker
+w?a-ku-biy-a,cheat,B-H-2,B,H,a,distant past,b,y,wa-,185.7236074,173.4206958,181.7852982,NA,75.05575784,57.84207324,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,cheat,B-H-2,B,H,u,distant past,b,y,ku-,225.7070711,207.1589692,220.1612947,38.3759965,72.40537536,37.58927933,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,cheat,B-H-2,B,H,i,distant past,b,y,stem,155.7423118,144.9645375,148.3097987,-71.85149593,69.58596769,85.92667999,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,cheat,B-H-2,B,H,a,distant past,b,y,FV,197.7265245,183.3375523,192.9956672,44.68586841,76.22239143,91.94345806,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dik-a,cover oneself,B-H-2,B,H,a,distant past,d,k,wa-,186.3705946,168.7226727,178.8350562,NA,77.15585327,64.24247799,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,cover oneself,B-H-2,B,H,u,distant past,d,k,ku-,227.8408837,196.9592698,221.1056379,42.27058172,69.23677634,51.04320535,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,cover oneself,B-H-2,B,H,i,distant past,d,k,stem,146.9382187,135.8847192,143.2345175,-77.87112042,68.64476866,63.87850431,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,cover oneself,B-H-2,B,H,a,distant past,d,k,FV,196.0780813,181.4708257,189.4684003,46.23388281,77.60404882,98.24723261,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-gand-a,mark an enemy,B-H-2,B,H,a,distant past,g,nd,wa-,180.2472362,167.088364,174.522219,NA,74.78576012,60.93981639,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,mark an enemy,B-H-2,B,H,u,distant past,g,nd,ku-,222.188733,202.8637311,216.2432005,41.72098149,71.35306383,47.28142889,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,mark an enemy,B-H-2,B,H,a,distant past,g,nd,stem,150.3189323,144.8955149,147.3314673,-68.91173315,76.80997435,80.04263982,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,mark an enemy,B-H-2,B,H,a,distant past,g,nd,FV,193.054346,170.5135335,187.3977321,40.06626477,77.57647729,104.1502124,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-hol-a,be scored,B-H-2,B,H,a,distant past,h,l,wa-,178.0641477,161.4971133,169.3143409,NA,74.97692169,67.17927452,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,be scored,B-H-2,B,H,u,distant past,h,l,ku-,229.1489168,183.9337786,217.2865427,47.97220172,72.54422539,63.84807691,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,be scored,B-H-2,B,H,o,distant past,h,l,stem,142.9608182,134.9620995,138.2591091,-79.02743352,70.99064481,84.55207734,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,be scored,B-H-2,B,H,a,distant past,h,l,FV,199.3737897,160.7984105,181.757262,43.49815285,78.98675786,105.0563828,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-jam-a,jam,B-H-2,B,H,a,distant past,j,m,wa-,184.9077337,168.6865568,179.0157991,NA,74.98604155,56.84759098,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,jam,B-H-2,B,H,a,distant past,j,m,ku-,229.2184491,200.2093412,223.5956447,44.57984561,68.73445644,51.36212819,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,jam,B-H-2,B,H,a,distant past,j,m,stem,151.5495534,144.877171,148.1511708,-75.4444739,76.72806982,53.30501368,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,jam,B-H-2,B,H,a,distant past,j,m,FV,197.3090654,174.9013941,190.6181079,42.46693713,75.98362994,92.24562555,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-khat-a,stick in throat,B-H-2,B,H,a,distant past,kh,t,wa-,167.6631817,158.63798,164.3762289,NA,76.24475748,62.64088209,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,stick in throat,B-H-2,B,H,u,distant past,kh,t,ku-,218.9253166,206.5835991,214.8750558,50.49882687,71.66790019,46.89861739,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,stick in throat,B-H-2,B,H,a,distant past,kh,t,stem,151.8237842,132.2265465,140.1207501,-74.75430562,71.88377827,54.60186588,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,stick in throat,B-H-2,B,H,a,distant past,kh,t,FV,188.3338313,168.0090305,179.3920132,39.27126306,76.01298476,101.449732,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,get stuck,B-H-2,B,H,a,distant past,ph,t,wa-,176.1077452,162.2539794,170.1791498,NA,74.05060189,59.48388358,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,get stuck,B-H-2,B,H,a,distant past,ph,t,ku-,222.9934329,192.6602677,216.3376032,46.15845336,73.17963288,52.38628892,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,get stuck,B-H-2,B,H,a,distant past,ph,t,stem,137.6164545,130.1028537,131.8604491,-84.47715405,70.81051217,47.29774062,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,get stuck,B-H-2,B,H,a,distant past,ph,t,FV,188.4097243,172.089103,182.4215493,50.5611002,75.80095081,101.8467466,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-sit-a,give away money in gambling,A-H-2,A,H,a,distant past,s,t,wa-,169.3482356,162.7583652,166.907972,NA,75.88625099,52.59848102,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,give away money in gambling,A-H-2,A,H,a,distant past,s,t,ku-,223.3574211,203.6167377,219.1201008,52.21212876,70.60193449,42.37712061,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,give away money in gambling,A-H-2,A,H,a,distant past,s,t,stem,193.9098997,183.6446424,185.8560007,-33.26410006,67.4640706,37.27438047,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,give away money in gambling,A-H-2,A,H,a,distant past,s,t,FV,199.7668297,193.8909822,197.3833734,11.52737269,78.52912804,106.9005511,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,wa-,164.1304107,136.8066561,150.6463056,NA,76.16345028,58.24141227,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,u,distant past,t,p,ku-,211.5259252,201.8824104,208.7264727,58.08016711,67.30664084,39.72620457,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,stem,170.737297,157.1149481,161.0003632,-47.72610958,78.92574724,54.32828583,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take extra cards,A-H-2,A,H,a,distant past,t,p,FV,192.2957638,183.6815403,187.5134353,26.5130721,78.4896193,89.49264696,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-thel-a,give up,B-H-2,B,H,a,distant past,th,l,wa-,182.2651878,166.6293759,174.4871235,NA,75.20597939,57.43558752,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,give up,B-H-2,B,H,u,distant past,th,l,ku-,220.347273,206.989243,216.8852184,42.39809489,68.80637293,46.71425043,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,give up,B-H-2,B,H,e,distant past,th,l,stem,157.5220487,140.6088543,146.2884882,-70.5967302,70.97814918,80.52210307,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,give up,B-H-2,B,H,a,distant past,th,l,FV,192.8856348,159.6246757,177.4416438,31.15315561,78.40624385,93.62370342,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,give too little,B-H-2,B,H,a,distant past,th,n,wa-,171.5317589,158.9268597,166.3703875,NA,75.26495317,60.34933183,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,give too little,B-H-2,B,H,u,distant past,th,n,ku-,223.0841017,209.0250762,219.0480227,52.67763514,68.77592124,45.01168684,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,give too little,B-H-2,B,H,e,distant past,th,n,stem,157.8858339,140.916379,147.6719677,-71.37605501,71.67528047,61.20965172,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,give too little,B-H-2,B,H,a,distant past,th,n,FV,188.8206562,162.3964305,179.9118708,32.23990309,72.73500342,112.1846447,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-vimb-a,be constipated,B-H-2,B,H,a,distant past,v,mb,wa-,185.6220242,170.228168,178.6680711,NA,74.65134885,65.98856915,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,be constipated,B-H-2,B,H,u,distant past,v,mb,ku-,218.7238344,193.8637824,214.0337101,35.36563894,70.11657657,35.23865142,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,be constipated,B-H-2,B,H,i,distant past,v,mb,stem,148.7254124,144.9809117,147.0947458,-66.93896432,68.95884045,52.40972195,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,be constipated,B-H-2,B,H,a,distant past,v,mb,FV,196.3228801,173.3401706,190.1214186,43.02667281,77.69306511,102.1031271,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,turn against,B-H-2,B,H,a,distant past,zy,ng,wa-,183.7130024,167.1635205,176.9518297,NA,72.58401725,57.11298343,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,turn against,B-H-2,B,H,u,distant past,zy,ng,ku-,227.6238016,185.5623755,216.4572017,39.50537199,72.57504917,66.48002819,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,turn against,B-H-2,B,H,a,distant past,zy,ng,stem,147.3374276,142.0302525,143.6929193,-72.76428236,75.63901645,57.25812607,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,turn against,B-H-2,B,H,a,distant past,zy,ng,FV,195.6869111,180.5191632,190.6218482,46.92892889,77.05392615,81.08705577,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-wil-a,be caught in trap,A-H-2,A,H,a,distant past,w,l,wa-,175.6454098,165.9444702,171.4421165,NA,76.50412244,60.70928153,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,be caught in trap,A-H-2,A,H,u,distant past,w,l,ku-,217.7707327,199.9889946,212.6387527,41.19663617,69.66994282,72.45220247,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,be caught in trap,A-H-2,A,H,i,distant past,w,l,stem,178.7403968,175.7343176,177.5213492,-35.11740342,73.15984425,43.96890408,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,be caught in trap,A-H-2,A,H,a,distant past,w,l,FV,197.725924,188.6039163,193.9669253,16.44557609,76.90480006,102.949778,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-biy-a,steal for,B-L-2,B,L,a,distant past,b,y,wa-,176.8514084,158.4968854,168.0415436,NA,75.03249614,59.56124229,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,steal for,B-L-2,B,L,u,distant past,b,y,ku-,205.1516481,184.1230574,199.9997326,31.95818903,71.47467912,47.53636195,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,steal for,B-L-2,B,L,i,distant past,b,y,stem,150.192838,134.2323258,140.1528443,-59.84688833,69.62726003,73.77679967,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-biy-a,steal for,B-L-2,B,L,a,distant past,b,y,FV,188.3702834,177.5349999,184.9582442,44.80539996,76.20619151,84.68916869,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-dik-a,spill,B-L-2,B,L,a,distant past,d,k,wa-,177.3250201,158.4924359,169.9214895,NA,75.18168324,62.58208067,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,spill,B-L-2,B,L,u,distant past,d,k,ku-,203.410737,182.7156525,197.9011439,27.97965436,69.12017366,50.5091485,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,spill,B-L-2,B,L,i,distant past,d,k,stem,139.9832996,131.5253349,137.7778278,-60.12331605,67.47809115,52.16982598,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-dik-a,spill,B-L-2,B,L,a,distant past,d,k,FV,189.1664238,177.93224,184.0214386,46.24361077,75.18126436,106.3183135,minimal,voiced obstruents,voiceless obstruents,blocker,non-blocker
+w?a-ku-gand-a,hit with vehicle,B-L-2,B,L,a,distant past,g,nd,wa-,178.846604,162.583855,170.6543848,NA,76.02416724,57.93570144,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,hit with vehicle,B-L-2,B,L,u,distant past,g,nd,ku-,206.893057,189.1571082,200.902819,30.24843417,70.41850867,48.8598149,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,hit with vehicle,B-L-2,B,L,a,distant past,g,nd,stem,154.2644501,139.7845212,146.0607959,-54.84202304,75.467157,77.71384664,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-gand-a,hit with vehicle,B-L-2,B,L,a,distant past,g,nd,FV,185.485654,176.2247494,183.1895379,37.12874195,77.20148409,107.7280659,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-hol-a,receive wages,B-L-2,B,L,a,distant past,h,l,wa-,181.8440722,160.7094424,173.1187658,NA,75.64975856,57.95780123,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,receive wages,B-L-2,B,L,u,distant past,h,l,ku-,206.446454,170.3643224,195.7211351,22.60236931,72.4835448,54.69937998,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,receive wages,B-L-2,B,L,o,distant past,h,l,stem,156.1591952,134.3987793,145.1872063,-50.5339288,71.05916895,76.73156172,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-hol-a,receive wages,B-L-2,B,L,a,distant past,h,l,FV,188.8982999,176.8529302,184.3739376,39.1867313,77.03353518,112.509038,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-jam-a,dance,B-L-2,B,L,a,distant past,j,m,wa-,176.2304047,161.2791419,169.7663928,NA,75.46975814,59.93430294,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,dance,B-L-2,B,L,u,distant past,j,m,ku-,203.173891,179.6838945,196.9918548,27.22546197,69.28938307,50.71444338,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,dance,B-L-2,B,L,a,distant past,j,m,stem,150.3111909,147.1946356,148.7317888,-48.26006599,74.81836129,53.68836533,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-jam-a,dance,B-L-2,B,L,a,distant past,j,m,FV,192.4949084,183.0040893,190.077042,41.34525325,72.17980674,91.3258038,minimal,voiced obstruents,sonorants,blocker,non-blocker
+w?a-ku-khat-a,cut lightly,B-L-2,B,L,a,distant past,kh,t,wa-,171.9339324,156.3601948,163.9331513,NA,76.43573564,58.00038894,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,cut lightly,B-L-2,B,L,u,distant past,kh,t,ku-,212.6413769,192.973359,204.8179829,40.88483163,70.14614799,52.09994807,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,cut lightly,B-L-2,B,L,a,distant past,kh,t,stem,163.3126828,143.4432178,151.6667423,-53.15124066,73.67319473,61.69912315,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-khat-a,cut lightly,B-L-2,B,L,a,distant past,kh,t,FV,188.3257884,179.3291221,184.5881581,32.92141586,76.27427406,104.5898098,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,prune,B-L-2,B,L,a,distant past,ph,t,wa-,175.0874829,160.3000419,169.4557775,NA,76.2110144,63.6355918,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,prune,B-L-2,B,L,u,distant past,ph,t,ku-,203.1183431,180.7382544,198.9596778,29.50390029,72.13739897,41.24729934,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,prune,B-L-2,B,L,a,distant past,ph,t,stem,152.7429097,140.6466823,145.429507,-53.53017077,72.42244564,66.16874461,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-phat-a,prune,B-L-2,B,L,a,distant past,ph,t,FV,183.335668,177.2731661,181.070769,35.64126197,76.54677615,107.5724584,minimal,aspirates,voiceless obstruents,blocker,non-blocker
+w?a-ku-sit-a,iron clothes,A-L-2,A,L,a,distant past,s,t,wa-,178.814816,161.6717625,172.4518204,NA,77.32850663,66.28110886,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,iron clothes,A-L-2,A,L,u,distant past,s,t,ku-,189.417942,180.9251357,186.9785079,14.52668757,65.97003817,47.90370505,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,iron clothes,A-L-2,A,L,i,distant past,s,t,stem,193.8718817,181.4361957,189.2020751,2.223567211,67.9883595,41.96447803,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-sit-a,iron clothes,A-L-2,A,L,a,distant past,s,t,FV,187.8258925,179.1495667,185.1943319,-4.007743234,76.99158022,106.8560724,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,wa-,169.4849019,156.5643565,165.6173255,NA,77.72970976,68.93475621,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,u,distant past,t,p,ku-,186.5151661,180.2175906,184.8961596,19.27883412,65.66219315,41.91920388,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,stem,179.3819182,164.9422947,171.1403494,-13.75581023,78.11094122,72.1159904,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-tap-a,take from,A-L-2,A,L,a,distant past,t,p,FV,178.4218994,169.5540503,171.7923711,0.652021694,79.24736333,90.11678954,minimal,voiceless obstruents,voiceless obstruents,non-blocker,non-blocker
+w?a-ku-thel-a,arrive,B-L-2,B,L,a,distant past,th,l,wa-,170.5330318,157.5624926,165.7378495,NA,75.90164806,61.3296309,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,arrive,B-L-2,B,L,u,distant past,th,l,ku-,201.6971154,191.4140176,199.550414,33.81256455,68.74432612,55.79097776,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,arrive,B-L-2,B,L,e,distant past,th,l,stem,164.741927,154.8855576,159.3919193,-40.15849474,72.5135641,78.67176098,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-thel-a,arrive,B-L-2,B,L,a,distant past,th,l,FV,187.7657536,174.1580471,183.229701,23.83778171,76.34936831,109.5940369,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,casatrate,B-L-2,B,L,a,distant past,th,n,wa-,171.8829623,156.4169198,166.0713712,NA,75.87218321,59.8672534,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,casatrate,B-L-2,B,L,u,distant past,th,n,ku-,199.4220204,191.1451423,196.2662649,30.19489364,68.71490025,49.15627647,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,casatrate,B-L-2,B,L,e,distant past,th,n,stem,171.3464551,152.2728522,158.8021114,-37.46415346,72.90869992,59.36522324,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-then-a,casatrate,B-L-2,B,L,a,distant past,th,n,FV,193.6369915,175.11009,187.22762,28.42550856,73.3002698,108.4161556,minimal,aspirates,sonorants,blocker,non-blocker
+w?a-ku-vimb-a,cover,B-L-2,B,L,a,distant past,v,mb,wa-,181.510731,162.1122661,173.5087643,NA,76.46103003,62.71760915,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,cover,B-L-2,B,L,u,distant past,v,mb,ku-,199.7474247,187.9232965,196.4082777,22.89951335,69.09239194,37.07498085,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,cover,B-L-2,B,L,i,distant past,v,mb,stem,153.1211256,146.2475554,151.4984033,-44.90987442,68.90466848,55.64952897,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-vimb-a,cover,B-L-2,B,L,a,distant past,v,mb,FV,191.4813792,170.109811,186.7916005,35.29319726,76.87369408,104.4131271,minimal,voiced obstruents,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-wil-a,throw food in mouth,A-L-2,A,L,a,distant past,w,l,wa-,174.7660575,158.9856053,168.9277572,NA,76.92268863,65.65763124,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,throw food in mouth,A-L-2,A,L,u,distant past,w,l,ku-,187.5369181,182.2747336,185.1024344,16.17467727,70.32096158,86.93957583,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,throw food in mouth,A-L-2,A,L,i,distant past,w,l,stem,179.9390583,177.7484859,179.068361,-6.034073419,73.33023329,55.67044267,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-wil-a,throw food in mouth,A-L-2,A,L,a,distant past,w,l,FV,184.2122816,180.9734482,182.7912501,3.72288912,77.591196,97.11359091,minimal,sonorants,sonorants,non-blocker,non-blocker
+w?a-ku-zyang-a,color,B-L-2,B,L,a,distant past,zy,ng,wa-,180.339373,162.7043231,173.3779853,NA,76.07866376,59.43750375,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,color,B-L-2,B,L,u,distant past,zy,ng,ku-,209.2720953,177.2589099,199.7840153,26.40603001,70.05963456,62.59199516,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,color,B-L-2,B,L,a,distant past,zy,ng,stem,153.5211054,149.6563516,150.5003212,-49.2836941,75.98747121,58.07578166,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
+w?a-ku-zyang-a,color,B-L-2,B,L,a,distant past,zy,ng,FV,182.5744214,177.2275258,180.5516376,30.05131646,76.59281909,94.68954831,minimal,voiced obstruent with glide,prenasalized voiced stops,blocker,non-blocker
