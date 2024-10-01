@@ -1,5 +1,5 @@
-# scripts
-R scripts, Python scripts, and annotated data for various projects
+# Scripts
+These folders contain R scripts, Python scripts, and annotated data for various projects.
 
 ## Projects:
 
