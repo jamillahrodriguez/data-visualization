@@ -2,11 +2,7 @@
 These folders contain R scripts, Python scripts, and annotated data for various projects.
 
 ## Projects:
-
-### Chatino tone
-
-### Ch'ol word order
-
-### Copala Triqui grammatical tone
-
-### Brazilian Portuguese verb reduplication
+* Depressor consonants in Malawian CiTonga
+* Chatino tone
+* Copala Triqui grammatical tone
+* Brazilian Portuguese verb reduplication
