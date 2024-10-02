@@ -15,5 +15,5 @@ The files here include:
  
 * An R script for exploration and analysis
 
-* Several graphs printed from the R script above
+* Several plots printed from the R script above
 
